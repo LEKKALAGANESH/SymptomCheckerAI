@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    overflow-x: hidden;
+}
+
+.about-main-heading {
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(90deg, rgba(27,99,224,1) 0%, rgba(29,151,234,1) 100%);
+    padding: 20px;
+    padding-left: 80px;
+    text-transform: uppercase;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    letter-spacing: 1.5px;
+    text-align: left;
+    margin-top: 40px;
+}
+
+.about-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 80px;
+    background-color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    margin: 40px auto;
+    max-width: 1200px;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.about-container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+
+.about-container-image {
+    background-image: url('DISEASE PREDICTION SYSTEM.jpg');
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 45%;
+    margin-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.about-container-image-description {
+    font-size: 1.1em;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    letter-spacing: 0.5px;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+
+.about-container-text {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    width: 45%;
+}
+
+.about-container-text-heading {
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+    letter-spacing: 0.5px;
+    position: relative;
+}
+
+.about-container-text-heading::after {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 4px;
+    background: linear-gradient(90deg, rgba(27,99,224,1) 0%, rgba(29,151,234,1) 100%);
+    margin-top: 10px;
+}
+
+.about-container-text-description {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 20px;
+    text-align: justify;
+    letter-spacing: 0.2px;
+}
+
+.learn-more-button {
+    padding: 15px 30px;
+    background: linear-gradient(90deg, rgba(27,99,224,1) 0%, rgba(29,151,234,1) 100%);
+    color: white;
+    font-size: 1em;
+    border: none;
+    border-radius: 50px;
+    text-transform: uppercase;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    align-self: flex-start;
+    text-align: center;
+}
+
+.learn-more-button:hover {
+    background: linear-gradient(90deg, rgba(29,151,234,1) 0%, rgba(27,99,224,1) 100%);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+@media (max-width: 768px) {
+    .about-main-heading {
+        font-size: 1.5em;
+        padding: 20px;
+        padding-left: 30px;
+        text-align: center;
+    }
+    
+    .about-container {
+        flex-direction: column;
+        padding: 20px;
+        margin: 20px;
+    }
+    
+    .about-container-image {
+        height: 250px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+    .about-container-text {
+        width: 100%;
+        padding: 20px 0;
+    }
+    
+    .about-container-text-heading {
+        font-size: 1.6em;
+    }
+    
+    .about-container-text-description {
+        font-size: 1em;
+    }
+
+    .learn-more-button {
+        padding: 12px 24px;
+        font-size: 0.9em;
+    }
+}

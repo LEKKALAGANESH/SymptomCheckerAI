@@ -1,0 +1,223 @@
+body {
+    margin: 0%;
+    overflow: auto;
+    height: auto;
+}
+
+
+.card {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 0px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+}
+
+.card h1 {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #1b63e0a7;
+    padding: 10px;
+}
+
+div form {
+    padding: 10px 20px;
+}
+
+input[type="email"],
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    font-size: 16px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[value="Sign In"], .register {
+    font-size: 14px;
+    list-style-type: none;
+    width: 60%;
+    padding: 8px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 9px;
+    align-self: end;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons a {
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+    padding: 10px 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.errors {
+    color: red;
+    font-size: 14px;
+    font-family: "calibri";
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .card {
+        margin-top: 5px;
+    }
+
+    .card h1 {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    div form {
+        padding: 10px 15px;
+    }
+
+    input[type="email"],
+    input[type="text"],
+    input[type="password"] {
+        font-size: 12px;
+        padding: 8px;
+    }
+
+    input[value="Sign In"],
+    input[value="Register"] {
+        font-size: 12px;
+        padding: 8px;
+    }
+
+    .buttons a {
+        font-size: 10px;
+        padding: 10px 20px;
+    }
+}
+
+/* Login.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    max-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.2);
+    outline: none;
+}
+
+.errors {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+    text-align: left;
+}
+
+.register {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.register:hover {
+    background-color: #0056b3;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.buttons a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease;
+}
+
+.buttons a:hover {
+    color: #0056b3;
+}
+
+span {
+    font-size: 20px;
+    color: #666;
+}
+
+span:hover {
+    color: #007bff;
+}
+
+/* Global error styling */
+.errors.global {
+    margin-top: 15px;
+    font-weight: bold;
+    color: #dc3545;
+}
+
+.success {
+    color: #28a745;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}

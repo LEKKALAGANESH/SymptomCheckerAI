@@ -1,0 +1,244 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    overflow-x: hidden;
+}
+
+
+.home-main-heading h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(90deg, rgba(27, 99, 224, 1) 0%, rgba(29, 151, 234, 1) 100%);
+    padding: 30px 60px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.home-top-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 40px auto;
+    padding: 0 40px;
+    max-width: 1200px;
+}
+
+.home-top-container-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s, box-shadow 0.3s;
+    width: 350px;
+}
+
+.home-top-container-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+
+.home-top-container-card-image {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+
+.home-top-container-heading {
+    font-size: 1.2em;
+    color: #333;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.home-top-container-description {
+    font-size: 1em;
+    color: #666;
+    text-align: center;
+    padding: 0 10px;
+    line-height: 1.6;
+}
+
+
+.home-bottom-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: #fff8f8;
+    border-radius: 15px;
+    padding: 40px;
+    margin: 40px auto;
+    max-width: 1200px;
+}
+
+.home-bottom-container-card {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s, box-shadow 0.3s;
+    width: 400px;
+    margin: 20px;
+}
+
+.home-bottom-container-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+
+.home-bottom-container-image {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+
+.home-bottom-container-heading {
+    font-size: 1.3em;
+    color: #333;
+    margin: 10px 0;
+    text-align: left;
+}
+
+.home-bottom-container-description {
+    font-size: 1em;
+    color: #666;
+    text-align: left;
+    line-height: 1.6;
+}
+
+
+.Home-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    padding: 0;
+    max-width: 1000px;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.image:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+
+@media (max-width: 768px) {
+    .Home-images {
+        display: none;
+    }
+
+    .home-top-container {
+        flex-direction: column;
+        padding: 20px;
+        margin: 20px auto;
+    }
+
+    .home-top-container-card-image {
+        height: 150px;
+        width: 100%;
+    }
+
+    .home-top-container-heading {
+        font-size: 1.1em;
+    }
+
+    .home-top-container-description {
+        font-size: 0.9em;
+    }
+
+    .home-bottom-container {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .home-bottom-container-card {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .home-bottom-container-image {
+        height: 200px;
+        width: 100%;
+    }
+
+    .home-bottom-container-heading {
+        font-size: 1.1em;
+    }
+
+    .home-bottom-container-description {
+        font-size: 0.9em;
+    }
+}
+
+.how-it-works-section {
+    padding: 40px 0;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.steps {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.step {
+    max-width: 250px;
+    margin: 20px 0;
+}
+
+.step h3 {
+    font-size: 22px;
+    color: #333;
+}
+
+.step p {
+    font-size: 16px;
+    color: #666;
+}
+
+
+.features-section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.features-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.features-list li {
+    font-size: 18px;
+    color: #333;
+    margin: 10px 0;
+}

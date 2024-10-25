@@ -1,0 +1,2793 @@
+{
+  "AndhraPradesh": {
+    "Visakhapatnam": [
+      {
+        "name": "Apollo Hospitals",
+        "doctor": "Dr. Ravi Shankar",
+        "contact": "+91 891 272 7272",
+        "address": "Health City, Arilova, Visakhapatnam, Andhra Pradesh 530040",
+        "website": "https://www.apollohospitals.com"
+      },
+      {
+        "name": "Care Hospital",
+        "doctor": "Dr. Anil Babu",
+        "contact": "+91 891 616 5666",
+        "address": "Plot No. 2, Health City, Chinagadili, Visakhapatnam, Andhra Pradesh 530040",
+        "website": "https://www.carehospitals.com"
+      }
+    ],
+    "Vijayawada": [
+      {
+        "name": "Manipal Hospitals",
+        "doctor": "Dr. Suresh Kumar",
+        "contact": "+91 866 246 8000",
+        "address": "Gurunanak Colony Road, Vijayawada, Andhra Pradesh 520008",
+        "website": "https://www.manipalhospitals.com"
+      },
+      {
+        "name": "Andhra Hospitals",
+        "doctor": "Dr. Prasad Raju",
+        "contact": "+91 866 257 5555",
+        "address": "29-14-49, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+        "website": "https://www.andhrahospitals.org"
+      }
+    ],
+    "Guntur": [
+      {
+        "name": "Ramesh Hospitals",
+        "doctor": "Dr. Venkatesh Reddy",
+        "contact": "+91 863 222 4400",
+        "address": "40-1-44, JKC College Road, Guntur, Andhra Pradesh 522002",
+        "website": "https://www.rameshhospitals.com"
+      },
+      {
+        "name": "NRI General Hospital",
+        "doctor": "Dr. Surya Prakash",
+        "contact": "+91 863 234 0777",
+        "address": "Chinakakani, Mangalagiri, Guntur District, Andhra Pradesh 522503",
+        "website": "https://www.nrihospital.com"
+      }
+    ],
+    "Nellore": [
+      {
+        "name": "Vijaya Hospital",
+        "doctor": "Dr. Rajasekhar",
+        "contact": "+91 861 233 7555",
+        "address": "Trunk Road, Nellore, Andhra Pradesh 524001",
+        "website": "http://vijayahospitals.com"
+      },
+      {
+        "name": "Apollo Specialty Hospital",
+        "doctor": "Dr. Anuradha Devi",
+        "contact": "+91 861 234 7000",
+        "address": "Dargamitta, Nellore, Andhra Pradesh 524003",
+        "website": "https://www.apollohospitals.com"
+      }
+    ],
+    "Tirupati": [
+      {
+        "name": "SVIMS Hospital",
+        "doctor": "Dr. Chandra Sekhar",
+        "contact": "+91 877 228 7777",
+        "address": "Alipiri Road, Tirupati, Andhra Pradesh 517507",
+        "website": "https://www.svimstpt.ap.nic.in"
+      },
+      {
+        "name": "Narayana Medical College & Hospital",
+        "doctor": "Dr. Ravindra Babu",
+        "contact": "+91 877 223 6711",
+        "address": "Chinthareddypalem, Nellore, Andhra Pradesh 524003",
+        "website": "https://www.narayanamedicalcollege.com"
+      }
+    ],
+    "Kurnool": [
+      {
+        "name": "Vijaya Super Specialty Hospital",
+        "doctor": "Dr. Ravi Kumar",
+        "contact": "+91 8518 221 444",
+        "address": "B-Camp, Kurnool, Andhra Pradesh 518002",
+        "website": "http://vijayahospital.com"
+      },
+      {
+        "name": "Pooja Multi Speciality Hospital",
+        "doctor": "Dr. Hari Prasad",
+        "contact": "+91 8518 278 484",
+        "address": "Srinivasa Nagar, Kurnool, Andhra Pradesh 518004",
+        "website": "http://poojahospital.com"
+      }
+    ],
+    "Rajahmundry": [
+      {
+        "name": "Aditya Hospital",
+        "doctor": "Dr. Srinivas Reddy",
+        "contact": "+91 883 242 8123",
+        "address": "Danavai Peta, Rajahmundry, Andhra Pradesh 533103",
+        "website": "http://adityahospital.com"
+      },
+      {
+        "name": "Prakash Multispeciality Hospital",
+        "doctor": "Dr. Sudhakar Rao",
+        "contact": "+91 883 244 4567",
+        "address": "Aryapuram, Rajahmundry, Andhra Pradesh 533101",
+        "website": "http://prakashhospital.com"
+      }
+    ],
+    "Anantapur": [
+      {
+        "name": "Government General Hospital",
+        "doctor": "Dr. Shankar Rao",
+        "contact": "+91 8554 244 458",
+        "address": "Subash Road, Anantapur, Andhra Pradesh 515001",
+        "website": "http://anantapurhospital.com"
+      },
+      {
+        "name": "Sai Super Specialty Hospital",
+        "doctor": "Dr. Praveen Kumar",
+        "contact": "+91 8554 278 544",
+        "address": "Sai Nagar, Anantapur, Andhra Pradesh 515002",
+        "website": "http://saihospital.com"
+      }
+    ],
+    "Eluru": [
+      {
+        "name": "Ashram Medical College & Hospital",
+        "doctor": "Dr. Laxmi Narayana",
+        "contact": "+91 8812 222 999",
+        "address": "NH16, Eluru, Andhra Pradesh 534005",
+        "website": "http://ashrammedicalcollege.com"
+      },
+      {
+        "name": "Surya Multi Speciality Hospital",
+        "doctor": "Dr. Manohar Reddy",
+        "contact": "+91 8812 243 567",
+        "address": "Ramachandra Rao Peta, Eluru, Andhra Pradesh 534002",
+        "website": "http://suryahospital.com"
+      }
+    ]
+  },
+  "Gujarat": {
+    "Ahmedabad": [
+      {
+        "name": "Apollo Hospitals",
+        "doctor": "Dr. Shailesh Patel",
+        "contact": "+91 79 6670 0000",
+        "address": "Bhat GIDC Estate, Gandhinagar, Ahmedabad, Gujarat 382428",
+        "website": "https://www.apollohospitals.com"
+      },
+      {
+        "name": "Sterling Hospital",
+        "doctor": "Dr. Dharmesh Shah",
+        "contact": "+91 79 4001 1111",
+        "address": "Gurukul Road, Memnagar, Ahmedabad, Gujarat 380052",
+        "website": "https://www.sterlinghospitals.com"
+      }
+    ],
+    "Surat": [
+      {
+        "name": "Kiran Multi Super Speciality Hospital",
+        "doctor": "Dr. Hitesh Patel",
+        "contact": "+91 261 716 1111",
+        "address": "Ved Road, Surat, Gujarat 395004",
+        "website": "https://www.kiranhospital.com"
+      },
+      {
+        "name": "Sunshine Global Hospital",
+        "doctor": "Dr. Rakesh Patel",
+        "contact": "+91 261 220 7777",
+        "address": "Athwagate, Surat, Gujarat 395001",
+        "website": "https://www.sunshineglobalhospitals.com"
+      }
+    ],
+    "Vadodara": [
+      {
+        "name": "Bhailal Amin General Hospital",
+        "doctor": "Dr. Ramesh Iyer",
+        "contact": "+91 265 612 3000",
+        "address": "Gorwa Road, Vadodara, Gujarat 390016",
+        "website": "https://www.baghospital.com"
+      },
+      {
+        "name": "Sterling Hospital",
+        "doctor": "Dr. Mehul Patel",
+        "contact": "+91 265 230 0000",
+        "address": "Race Course Circle, Vadodara, Gujarat 390007",
+        "website": "https://www.sterlinghospitals.com"
+      }
+    ],
+    "Rajkot": [
+      {
+        "name": "Wockhardt Hospitals",
+        "doctor": "Dr. Vijay Joshi",
+        "contact": "+91 281 669 4444",
+        "address": "Kalawad Road, Rajkot, Gujarat 360005",
+        "website": "https://www.wockhardthospitals.com"
+      },
+      {
+        "name": "Gokul Superspeciality Hospital",
+        "doctor": "Dr. Harshad Mehta",
+        "contact": "+91 281 245 5555",
+        "address": "Sadar, Rajkot, Gujarat 360001",
+        "website": "https://www.gokulhospital.com"
+      }
+    ],
+    "Bhavnagar": [
+      {
+        "name": "Hanumant Hospital",
+        "doctor": "Dr. Nilesh Patel",
+        "contact": "+91 278 252 5555",
+        "address": "Vithalwadi, Bhavnagar, Gujarat 364002",
+        "website": "http://hanumanthospital.com"
+      },
+      {
+        "name": "Sakar Multi Speciality Hospital",
+        "doctor": "Dr. Vipul Shah",
+        "contact": "+91 278 257 7000",
+        "address": "Kalanala, Bhavnagar, Gujarat 364001",
+        "website": "http://sakarhospital.com"
+      }
+    ],
+    "Jamnagar": [
+      {
+        "name": "GG Hospital",
+        "doctor": "Dr. Arvind Rajput",
+        "contact": "+91 288 275 0550",
+        "address": "Government Colony, Jamnagar, Gujarat 361008",
+        "website": "http://gghospital.com"
+      },
+      {
+        "name": "Haria L.G. Rotary Hospital",
+        "doctor": "Dr. Umesh Solanki",
+        "contact": "+91 288 267 3333",
+        "address": "Opp. DKV College, Jamnagar, Gujarat 361004",
+        "website": "http://harialghospital.com"
+      }
+    ],
+    "Junagadh": [
+      {
+        "name": "Madhuram Hospital",
+        "doctor": "Dr. Rajesh Patel",
+        "contact": "+91 285 262 5252",
+        "address": "Keshod Road, Junagadh, Gujarat 362001",
+        "website": "http://madhuramhospital.com"
+      },
+      {
+        "name": "Aghera Multi Speciality Hospital",
+        "doctor": "Dr. Bharat Vyas",
+        "contact": "+91 285 263 3434",
+        "address": "M.G. Road, Junagadh, Gujarat 362002",
+        "website": "http://agherahospital.com"
+      }
+    ],
+    "Gandhinagar": [
+      {
+        "name": "Civil Hospital Gandhinagar",
+        "doctor": "Dr. Nirav Patel",
+        "contact": "+91 79 2324 4444",
+        "address": "Sector 12, Gandhinagar, Gujarat 382016",
+        "website": "http://gandhinagarcivilhospital.com"
+      },
+      {
+        "name": "Apollo Hospital Gandhinagar",
+        "doctor": "Dr. Harish Mehta",
+        "contact": "+91 79 6670 7000",
+        "address": "Apollo Circle, Gandhinagar, Gujarat 382009",
+        "website": "https://www.apollohospitals.com"
+      }
+    ],
+    "Nadiad": [
+      {
+        "name": "Dharamsinh Desai Hospital",
+        "doctor": "Dr. Dhaval Desai",
+        "contact": "+91 268 255 1111",
+        "address": "College Road, Nadiad, Gujarat 387001",
+        "website": "http://ddunadiad.com"
+      },
+      {
+        "name": "Shree Krishna Hospital",
+        "doctor": "Dr. Sanjay Patel",
+        "contact": "+91 268 252 2000",
+        "address": "Karamsad, Nadiad, Gujarat 388325",
+        "website": "http://shreekrishnahospital.com"
+      }
+    ],
+    "Porbandar": [
+      {
+        "name": "Bhagwati Hospital",
+        "doctor": "Dr. Mahesh Patel",
+        "contact": "+91 286 224 4455",
+        "address": "MG Road, Porbandar, Gujarat 360575",
+        "website": "http://bhagwatihospital.com"
+      },
+      {
+        "name": "Shital Multi Speciality Hospital",
+        "doctor": "Dr. Mukesh Joshi",
+        "contact": "+91 286 225 6789",
+        "address": "Harish Chandra Park, Porbandar, Gujarat 360576",
+        "website": "http://shitalhospital.com"
+      }
+    ]
+  },
+  "Karnataka": {
+    "Bengaluru": [
+      {
+        "name": "Manipal Hospital",
+        "doctor": "Dr. Sudhir Kumar",
+        "contact": "+91 80 2222 2222",
+        "address": "98, HAL Old Airport Road, Kodihalli, Bengaluru, Karnataka 560008",
+        "website": "https://www.manipalhospitals.com"
+      },
+      {
+        "name": "Fortis Hospital",
+        "doctor": "Dr. Anil B. Rao",
+        "contact": "+91 80 6611 5000",
+        "address": "153/1, Brigade Road, Ashok Nagar, Bengaluru, Karnataka 560025",
+        "website": "https://www.fortishealthcare.com"
+      }
+    ],
+    "Mysuru": [
+      {
+        "name": "Apollo BGS Hospital",
+        "doctor": "Dr. K. V. Raghavendra",
+        "contact": "+91 821 244 5000",
+        "address": "Saraswati Puram, Mysuru, Karnataka 570009",
+        "website": "https://www.apollohospitals.com"
+      },
+      {
+        "name": "Jayadeva Hospital",
+        "doctor": "Dr. C. S. Muthappa",
+        "contact": "+91 821 249 1984",
+        "address": "Mysuru, Karnataka 570002",
+        "website": "http://jayadevahospital.org"
+      }
+    ],
+    "Mangaluru": [
+      {
+        "name": "KMC Hospital",
+        "doctor": "Dr. Gopal Kamath",
+        "contact": "+91 824 245 1934",
+        "address": "Mangaluru, Karnataka 575001",
+        "website": "https://kmch.kmc.edu"
+      },
+      {
+        "name": "Narayana Health",
+        "doctor": "Dr. Sudarshan Shetty",
+        "contact": "+91 824 220 2000",
+        "address": "C. A. P. B. Road, Mangaluru, Karnataka 575003",
+        "website": "https://www.narayanahealth.org"
+      }
+    ],
+    "Hubballi": [
+      {
+        "name": "KIMS Hospital",
+        "doctor": "Dr. L. N. Kakkilaya",
+        "contact": "+91 836 237 3030",
+        "address": "KIMS Hospital, Hubballi, Karnataka 580029",
+        "website": "http://kimshubballi.com"
+      },
+      {
+        "name": "Dr. G. Shankar Clinic and Hospital",
+        "doctor": "Dr. G. Shankar",
+        "contact": "+91 836 237 9700",
+        "address": "B B Road, Hubballi, Karnataka 580029",
+        "website": "http://gshankarhospital.com"
+      }
+    ],
+    "Belagavi": [
+      {
+        "name": "Chhatrapati Shivaji Hospital",
+        "doctor": "Dr. R. S. Patil",
+        "contact": "+91 831 240 2351",
+        "address": "Bajirao Road, Belagavi, Karnataka 590001",
+        "website": "http://cshospitalbelgaum.com"
+      },
+      {
+        "name": "Apex Hospital",
+        "doctor": "Dr. Shashikant Pujari",
+        "contact": "+91 831 244 3511",
+        "address": "Bangalore Road, Belagavi, Karnataka 590006",
+        "website": "http://apexhospitalbelgaum.com"
+      }
+    ],
+    "Dharwad": [
+      {
+        "name": "R. L. Jalappa Hospital",
+        "doctor": "Dr. S. B. Khanna",
+        "contact": "+91 836 221 9900",
+        "address": "Dharwad, Karnataka 580001",
+        "website": "http://rljhospital.com"
+      },
+      {
+        "name": "Sanjivani Hospital",
+        "doctor": "Dr. Ravi S. Bhosale",
+        "contact": "+91 836 274 5244",
+        "address": "Dharwad, Karnataka 580008",
+        "website": "http://sanjivinihospital.com"
+      }
+    ],
+    "Kolar": [
+      {
+        "name": "Raja Rajeshwari Medical College and Hospital",
+        "doctor": "Dr. Mallikarjun K.",
+        "contact": "+91 8152 241 777",
+        "address": "Kolar, Karnataka 563101",
+        "website": "http://rrmch.com"
+      },
+      {
+        "name": "Sanjeevani Multispeciality Hospital",
+        "doctor": "Dr. Suresh B.",
+        "contact": "+91 8152 223 455",
+        "address": "Kolar, Karnataka 563101",
+        "website": "http://sanjeevanihospital.com"
+      }
+    ],
+    "Shivamogga": [
+      {
+        "name": "BGS Global Hospital",
+        "doctor": "Dr. Raghavendra Rao",
+        "contact": "+91 8182 229 220",
+        "address": "Shivamogga, Karnataka 577201",
+        "website": "http://bgsglobalhospital.com"
+      },
+      {
+        "name": "Shivamogga Institute of Medical Sciences",
+        "doctor": "Dr. Anil Patil",
+        "contact": "+91 8182 223 272",
+        "address": "Shivamogga, Karnataka 577201",
+        "website": "http://simshospital.com"
+      }
+    ],
+    "Udupi": [
+      {
+        "name": "KMC Hospital",
+        "doctor": "Dr. Rajesh Shetty",
+        "contact": "+91 820 252 5000",
+        "address": "KMC Hospital, Udupi, Karnataka 576101",
+        "website": "https://www.kmc.edu"
+      },
+      {
+        "name": "Manipal Hospital",
+        "doctor": "Dr. Vishnu Bhat",
+        "contact": "+91 820 257 7575",
+        "address": "Manipal, Udupi, Karnataka 576104",
+        "website": "https://www.manipalhospitals.com"
+      }
+    ],
+    "Tumakuru": [
+      {
+        "name": "Shree Narayana Hospital",
+        "doctor": "Dr. Ravi K.",
+        "contact": "+91 816 226 7555",
+        "address": "Tumkur, Karnataka 572101",
+        "website": "http://shreenarayanahospital.com"
+      },
+      {
+        "name": "K. M. Hospital",
+        "doctor": "Dr. Raghavendra S.",
+        "contact": "+91 816 227 7555",
+        "address": "Tumkur, Karnataka 572102",
+        "website": "http://kmhospital.com"
+      }
+    ]
+  },
+  "Tamilnadu": {
+    "Chennai": [
+      {
+        "name": "Apollo Hospitals",
+        "doctor": "Dr. R. S. Dinesh",
+        "contact": "+91 44 2829 3333",
+        "address": "21, Greams Lane, Off Greams Road, Chennai, Tamil Nadu 600006",
+        "website": "https://www.apollohospitals.com"
+      },
+      {
+        "name": "Fortis Malar Hospital",
+        "doctor": "Dr. K. P. Ramesh",
+        "contact": "+91 44 2498 5555",
+        "address": "No. 3, 1st Main Road, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+        "website": "https://www.fortishealthcare.com"
+      }
+    ],
+    "Coimbatore": [
+      {
+        "name": "Kovai Medical Center and Hospital",
+        "doctor": "Dr. K. Thirumurugan",
+        "contact": "+91 422 432 4900",
+        "address": "3, 5th Street, S. R. K. Nagar, Coimbatore, Tamil Nadu 641038",
+        "website": "http://www.kmchhospitals.com"
+      },
+      {
+        "name": "PSG Hospitals",
+        "doctor": "Dr. Ganesh Ramakrishnan",
+        "contact": "+91 422 255 0280",
+        "address": "PSG Institute of Medical Sciences and Research, Peelamedu, Coimbatore, Tamil Nadu 641004",
+        "website": "https://www.psghospital.com"
+      }
+    ],
+    "Madurai": [
+      {
+        "name": "Meenakshi Mission Hospital and Research Centre",
+        "doctor": "Dr. R. R. Jayaraj",
+        "contact": "+91 452 439 2222",
+        "address": "K.K.Nagar, Madurai, Tamil Nadu 625020",
+        "website": "https://www.mmhospital.org"
+      },
+      {
+        "name": "Apollo Hospitals",
+        "doctor": "Dr. M. R. Swaminathan",
+        "contact": "+91 452 259 2222",
+        "address": "145, M. K. S. Road, Madurai, Tamil Nadu 625014",
+        "website": "https://www.apollohospitals.com"
+      }
+    ],
+    "Tiruchirappalli": [
+      {
+        "name": "Sri Ramakrishna Hospital",
+        "doctor": "Dr. V. Venkatesan",
+        "contact": "+91 431 246 1305",
+        "address": "Kottapattu, Tiruchirappalli, Tamil Nadu 620021",
+        "website": "http://www.sriramakrishnahospital.org"
+      },
+      {
+        "name": "Cauvery Heart and Multi-Speciality Hospital",
+        "doctor": "Dr. R. M. Muthusamy",
+        "contact": "+91 431 400 2233",
+        "address": "2nd Floor, F-1, 3rd Main Road, Thillai Nagar, Tiruchirappalli, Tamil Nadu 620018",
+        "website": "http://www.cauveryhospital.org"
+      }
+    ],
+    "Salem": [
+      {
+        "name": "Sankara Nethralaya Hospital",
+        "doctor": "Dr. A. S. Kannan",
+        "contact": "+91 427 244 6767",
+        "address": "Salem, Tamil Nadu 636007",
+        "website": "https://www.sankaranethralaya.org"
+      },
+      {
+        "name": "Vijay Hospital",
+        "doctor": "Dr. S. Thiyagarajan",
+        "contact": "+91 427 244 3434",
+        "address": "Dindigul Main Road, Salem, Tamil Nadu 636004",
+        "website": "http://www.vijayhospital.com"
+      }
+    ],
+    "Erode": [
+      {
+        "name": "K.R.Hospital",
+        "doctor": "Dr. R. Kumar",
+        "contact": "+91 424 220 4295",
+        "address": "Mysore Road, Erode, Tamil Nadu 638001",
+        "website": "http://krhospital.com"
+      },
+      {
+        "name": "Bharath Hospital",
+        "doctor": "Dr. M. Subramanian",
+        "contact": "+91 424 220 4900",
+        "address": "Sankaranpalayam, Erode, Tamil Nadu 638007",
+        "website": "http://bharathhospital.com"
+      }
+    ],
+    "Vellore": [
+      {
+        "name": "Christian Medical College",
+        "doctor": "Dr. A. R. Krishnan",
+        "contact": "+91 416 228 1000",
+        "address": "Ida Scudder Road, Vellore, Tamil Nadu 632004",
+        "website": "https://www.cmch-vellore.edu"
+      },
+      {
+        "name": "Vellore Institute of Technology Hospital",
+        "doctor": "Dr. S. Shreeja",
+        "contact": "+91 416 224 1400",
+        "address": "VIT Campus, Vellore, Tamil Nadu 632014",
+        "website": "http://vit.ac.in"
+      }
+    ],
+    "Kochi": [
+      {
+        "name": "Aster Medcity",
+        "doctor": "Dr. C. V. Chacko",
+        "contact": "+91 484 660 6666",
+        "address": "Aster Medcity, NH 47, Near Willingdon Island, Kochi, Kerala 682040",
+        "website": "https://www.asterdmhealthcare.com"
+      },
+      {
+        "name": "Medical Trust Hospital",
+        "doctor": "Dr. M. K. Joseph",
+        "contact": "+91 484 244 0777",
+        "address": "M. G. Road, Kochi, Kerala 682016",
+        "website": "http://www.medicaltrusthospital.org"
+      }
+    ],
+    "Tirunelveli": [
+      {
+        "name": "K. A. Hospital",
+        "doctor": "Dr. N. Manikandan",
+        "contact": "+91 462 230 2222",
+        "address": "Near Collector Office, Tirunelveli, Tamil Nadu 627002",
+        "website": "http://www.kahospital.com"
+      },
+      {
+        "name": "Tirunelveli Medical College Hospital",
+        "doctor": "Dr. M. J. Chinnathambi",
+        "contact": "+91 462 230 5263",
+        "address": "Tirunelveli, Tamil Nadu 627011",
+        "website": "http://www.tvmch.com"
+      }
+    ],
+    "Nagercoil": [
+      {
+        "name": "Vivekanandha Medical Care Hospital",
+        "doctor": "Dr. R. Rajendran",
+        "contact": "+91 4652 235 900",
+        "address": "Nagercoil, Tamil Nadu 629001",
+        "website": "http://www.vivekanandhahospital.com"
+      },
+      {
+        "name": "K.K. Hospital",
+        "doctor": "Dr. A. K. Suresh",
+        "contact": "+91 4652 244 444",
+        "address": "Nagercoil, Tamil Nadu 629002",
+        "website": "http://www.kkhospital.com"
+      }
+    ]
+  },
+  "Maharashtra": {
+    "Mumbai": [
+      {
+        "name": "Lilavati Hospital",
+        "doctor": "Dr. A. S. Sukhare",
+        "contact": "+91 22 2675 1000",
+        "address": "A-791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050",
+        "website": "https://www.lilavatihospital.com"
+      },
+      {
+        "name": "Fortis Hospital",
+        "doctor": "Dr. R. K. Jha",
+        "contact": "+91 22 6773 7000",
+        "address": "LBS Marg, Kurla West, Mumbai, Maharashtra 400070",
+        "website": "https://www.fortishealthcare.com"
+      }
+    ],
+    "Pune": [
+      {
+        "name": "Sahyadri Hospital",
+        "doctor": "Dr. Prashant Patil",
+        "contact": "+91 20 6727 2700",
+        "address": "D-7, Bhosale Nagar, Pune, Maharashtra 411007",
+        "website": "https://www.sahyadrihospital.com"
+      },
+      {
+        "name": "Ruby Hall Clinic",
+        "doctor": "Dr. S. S. Joshi",
+        "contact": "+91 20 2605 4444",
+        "address": "40, Sassoon Road, Pune, Maharashtra 411001",
+        "website": "https://www.rubyhall.com"
+      }
+    ],
+    "Nagpur": [
+      {
+        "name": "Orange City Hospital",
+        "doctor": "Dr. N. R. Waghmare",
+        "contact": "+91 712 663 4677",
+        "address": "Laxminagar, Nagpur, Maharashtra 440022",
+        "website": "http://ochnagpur.com"
+      },
+      {
+        "name": "Wockhardt Hospitals",
+        "doctor": "Dr. A. A. Saraf",
+        "contact": "+91 712 666 2333",
+        "address": "Opp. Suyog Hospital, Amravati Road, Nagpur, Maharashtra 440001",
+        "website": "https://www.wockhardthospitals.com"
+      }
+    ],
+    "Thane": [
+      {
+        "name": "Hiranandani Hospital",
+        "doctor": "Dr. T. P. Mahale",
+        "contact": "+91 22 2576 3000",
+        "address": "Hiranandani Gardens, Powai, Thane, Maharashtra 400076",
+        "website": "https://www.hiranandanihospital.org"
+      },
+      {
+        "name": "Currae Specialty Hospital",
+        "doctor": "Dr. K. M. Chandrasekhar",
+        "contact": "+91 22 2560 6464",
+        "address": "Currae Hospital, Near Manpada Road, Thane, Maharashtra 421201",
+        "website": "https://www.curraehospital.com"
+      }
+    ],
+    "Nashik": [
+      {
+        "name": "Sanjivani Hospital",
+        "doctor": "Dr. R. S. Dhanvate",
+        "contact": "+91 253 241 6510",
+        "address": "Sanjivani Hospital, Nashik, Maharashtra 422001",
+        "website": "http://sanjivanihospital.org"
+      },
+      {
+        "name": "Siddhivinayak Hospital",
+        "doctor": "Dr. S. R. Nimbalkar",
+        "contact": "+91 253 241 2092",
+        "address": "Siddhivinayak Hospital, Nashik, Maharashtra 422009",
+        "website": "http://siddhivinayakhospital.com"
+      }
+    ],
+    "Aurangabad": [
+      {
+        "name": "Jaslok Hospital",
+        "doctor": "Dr. P. S. Agrawal",
+        "contact": "+91 240 248 4900",
+        "address": "Jaslok Hospital, Near R.T.O., Aurangabad, Maharashtra 431001",
+        "website": "http://jaslokhospital.com"
+      },
+      {
+        "name": "Criticare Hospital",
+        "doctor": "Dr. S. S. Shinde",
+        "contact": "+91 240 248 1888",
+        "address": "Criticare Hospital, Aurangabad, Maharashtra 431005",
+        "website": "http://criticarehospital.com"
+      }
+    ],
+    "Solapur": [
+      {
+        "name": "Siddharth Hospital",
+        "doctor": "Dr. P. R. Patil",
+        "contact": "+91 217 233 4002",
+        "address": "Siddharth Hospital, Solapur, Maharashtra 413003",
+        "website": "http://siddharthhospital.com"
+      },
+      {
+        "name": "Shree Sidhivinayak Hospital",
+        "doctor": "Dr. A. R. Bhosale",
+        "contact": "+91 217 223 1111",
+        "address": "Solapur, Maharashtra 413004",
+        "website": "http://shreesidhivinayakhospital.com"
+      }
+    ],
+    "Jalna": [
+      {
+        "name": "Jalna Hospital",
+        "doctor": "Dr. S. M. Patil",
+        "contact": "+91 242 426 2727",
+        "address": "Jalna, Maharashtra 431203",
+        "website": "http://jalnahospital.com"
+      },
+      {
+        "name": "Kedar Hospital",
+        "doctor": "Dr. S. S. Joshi",
+        "contact": "+91 242 248 1222",
+        "address": "Kedar Hospital, Jalna, Maharashtra 431201",
+        "website": "http://kedarhospital.com"
+      }
+    ],
+    "Ratnagiri": [
+      {
+        "name": "Ratnagiri Hospital",
+        "doctor": "Dr. M. V. Sane",
+        "contact": "+91 235 422 3530",
+        "address": "Ratnagiri, Maharashtra 415612",
+        "website": "http://ratnagihospital.com"
+      },
+      {
+        "name": "Vishal Hospital",
+        "doctor": "Dr. R. S. Mohite",
+        "contact": "+91 235 423 8888",
+        "address": "Ratnagiri, Maharashtra 415612",
+        "website": "http://vishalhospital.com"
+      }
+    ]
+  },
+  "Madhyapradesh": {
+    "Bhopal": [
+      {
+        "name": "Narmada Hospital",
+        "doctor": "Dr. V. K. Shrivastava",
+        "contact": "+91 755 400 6767",
+        "address": "Narmada Hospital, 28, Shankar Nagar, Bhopal, Madhya Pradesh 462011",
+        "website": "http://www.narmadahospital.com"
+      },
+      {
+        "name": "Max Super Speciality Hospital",
+        "doctor": "Dr. M. K. Choudhary",
+        "contact": "+91 755 255 5000",
+        "address": "Max Super Speciality Hospital, Hoshangabad Road, Bhopal, Madhya Pradesh 462026",
+        "website": "https://www.maxhealthcare.in"
+      }
+    ],
+    "Indore": [
+      {
+        "name": "Indore Heart Institute & Research Centre",
+        "doctor": "Dr. A. K. Mishra",
+        "contact": "+91 731 249 1010",
+        "address": "Indore Heart Institute, 4, Bhanwarkuan Rd, Indore, Madhya Pradesh 452001",
+        "website": "http://www.indoreheart.com"
+      },
+      {
+        "name": "Bombay Hospital",
+        "doctor": "Dr. R. R. Khanna",
+        "contact": "+91 731 240 2020",
+        "address": "Bombay Hospital, 8, New Palasia, Indore, Madhya Pradesh 452001",
+        "website": "http://www.bombayhospital.com"
+      }
+    ],
+    "Gwalior": [
+      {
+        "name": "Jaypee Hospital",
+        "doctor": "Dr. M. R. Gupta",
+        "contact": "+91 751 240 7575",
+        "address": "Jaypee Hospital, Near Rajiv Gandhi Memorial, Gwalior, Madhya Pradesh 474001",
+        "website": "http://www.jaypeehospital.com"
+      },
+      {
+        "name": "Medanta Hospital",
+        "doctor": "Dr. S. S. Jain",
+        "contact": "+91 751 238 2121",
+        "address": "Medanta Hospital, 9, Gupta Complex, Gwalior, Madhya Pradesh 474002",
+        "website": "https://www.medanta.org"
+      }
+    ],
+    "Jabalpur": [
+      {
+        "name": "Shri Ram Hospital",
+        "doctor": "Dr. S. C. Agrawal",
+        "contact": "+91 761 244 6666",
+        "address": "Shri Ram Hospital, Near Jabalpur Bus Stand, Jabalpur, Madhya Pradesh 482001",
+        "website": "http://www.shriramhospital.com"
+      },
+      {
+        "name": "Jabalpur Hospital and Research Centre",
+        "doctor": "Dr. N. K. Sharma",
+        "contact": "+91 761 241 1991",
+        "address": "Jabalpur Hospital, 31, Ranjhi Road, Jabalpur, Madhya Pradesh 482005",
+        "website": "http://www.jabalpurhospital.com"
+      }
+    ],
+    "Ujjain": [
+      {
+        "name": "Mahatma Gandhi Hospital",
+        "doctor": "Dr. A. P. Verma",
+        "contact": "+91 734 242 7474",
+        "address": "Mahatma Gandhi Hospital, Narsingh Ghat, Ujjain, Madhya Pradesh 456001",
+        "website": "http://www.mghujjain.com"
+      },
+      {
+        "name": "Sanjeevani Hospital",
+        "doctor": "Dr. R. K. Jain",
+        "contact": "+91 734 240 5050",
+        "address": "Sanjeevani Hospital, 3, Adarsh Colony, Ujjain, Madhya Pradesh 456006",
+        "website": "http://www.sanjeevanihospital.com"
+      }
+    ],
+    "Satna": [
+      {
+        "name": "Krishna Hospital",
+        "doctor": "Dr. A. K. Tiwari",
+        "contact": "+91 769 520 0830",
+        "address": "Krishna Hospital, Barhaiya, Satna, Madhya Pradesh 485001",
+        "website": "http://www.krishnahospital.com"
+      },
+      {
+        "name": "Sukhda Hospital",
+        "doctor": "Dr. N. P. Rai",
+        "contact": "+91 769 520 0820",
+        "address": "Sukhda Hospital, Near Shree Kedar Mandir, Satna, Madhya Pradesh 485001",
+        "website": "http://www.sukhda.com"
+      }
+    ],
+    "Sagar": [
+      {
+        "name": "Sagar Hospital",
+        "doctor": "Dr. S. P. Dubey",
+        "contact": "+91 758 222 9500",
+        "address": "Sagar Hospital, Sagar, Madhya Pradesh 470001",
+        "website": "http://www.sagarhospital.com"
+      },
+      {
+        "name": "Shivani Hospital",
+        "doctor": "Dr. R. K. Chourasia",
+        "contact": "+91 758 222 4444",
+        "address": "Shivani Hospital, Ratan Ganj, Sagar, Madhya Pradesh 470001",
+        "website": "http://www.shivanihospital.com"
+      }
+    ],
+    "Khandwa": [
+      {
+        "name": "Khandwa Hospital",
+        "doctor": "Dr. A. P. Joshi",
+        "contact": "+91 727 400 7600",
+        "address": "Khandwa Hospital, Khandwa, Madhya Pradesh 450001",
+        "website": "http://www.khandwahospital.com"
+      },
+      {
+        "name": "Panchvati Hospital",
+        "doctor": "Dr. M. S. Nair",
+        "contact": "+91 727 400 5500",
+        "address": "Panchvati Hospital, Khandwa, Madhya Pradesh 450001",
+        "website": "http://www.panchvatihospital.com"
+      }
+    ],
+    "Shahdol": [
+      {
+        "name": "Shahdol Hospital",
+        "doctor": "Dr. M. M. Singh",
+        "contact": "+91 767 222 5353",
+        "address": "Shahdol Hospital, Shahdol, Madhya Pradesh 484001",
+        "website": "http://www.shahdohospital.com"
+      },
+      {
+        "name": "Ankur Hospital",
+        "doctor": "Dr. A. K. Soni",
+        "contact": "+91 767 222 2222",
+        "address": "Ankur Hospital, Shahdol, Madhya Pradesh 484001",
+        "website": "http://www.ankurhospital.com"
+      }
+    ]
+  },
+  "Uttarpradesh": {
+    "Lucknow": [
+      {
+        "name": "SGPGI Hospital",
+        "doctor": "Dr. A. P. Gupta",
+        "contact": "+91 522 249 3000",
+        "address": "SGPGI, Raebareli Road, Lucknow, Uttar Pradesh 226014",
+        "website": "http://www.sgpgims.org.in"
+      },
+      {
+        "name": "KGMU Hospital",
+        "doctor": "Dr. V. K. Singh",
+        "contact": "+91 522 225 0000",
+        "address": "KGMU, Lucknow, Uttar Pradesh 226003",
+        "website": "http://www.kgmcindia.edu.in"
+      }
+    ],
+    "Kanpur": [
+      {
+        "name": "Hindu Hospital",
+        "doctor": "Dr. R. P. Yadav",
+        "contact": "+91 512 230 7501",
+        "address": "Hindu Hospital, 100 Feet Road, Kanpur, Uttar Pradesh 208004",
+        "website": "http://www.hinduhospitalkanpur.com"
+      },
+      {
+        "name": "LPS Institute of Cardiology",
+        "doctor": "Dr. N. K. Gupta",
+        "contact": "+91 512 228 6014",
+        "address": "LPS Institute of Cardiology, Kanpur, Uttar Pradesh 208001",
+        "website": "http://www.lpshospital.com"
+      }
+    ],
+    "Agra": [
+      {
+        "name": "Jeevan Jyoti Hospital",
+        "doctor": "Dr. A. K. Sharma",
+        "contact": "+91 562 405 1444",
+        "address": "Jeevan Jyoti Hospital, 26/192, B-1, Fatehabad Road, Agra, Uttar Pradesh 282001",
+        "website": "http://www.jeevanjyotihospital.com"
+      },
+      {
+        "name": "Narayana Multispeciality Hospital",
+        "doctor": "Dr. B. S. Jain",
+        "contact": "+91 562 404 6000",
+        "address": "Narayana Multispeciality Hospital, Agra, Uttar Pradesh 282001",
+        "website": "http://www.narayanahealth.org"
+      }
+    ],
+    "Varanasi": [
+      {
+        "name": "Heritage Hospital",
+        "doctor": "Dr. R. K. Mishra",
+        "contact": "+91 542 250 2101",
+        "address": "Heritage Hospital, 45, Kachari Ghat, Varanasi, Uttar Pradesh 221001",
+        "website": "http://www.heritagehospital.com"
+      },
+      {
+        "name": "Vishwa Hospital",
+        "doctor": "Dr. S. M. Verma",
+        "contact": "+91 542 230 1647",
+        "address": "Vishwa Hospital, Varanasi, Uttar Pradesh 221010",
+        "website": "http://www.vishwahospital.com"
+      }
+    ],
+    "Allahabad": [
+      {
+        "name": "Mayo Hospital",
+        "doctor": "Dr. A. K. Ranjan",
+        "contact": "+91 532 240 1001",
+        "address": "Mayo Hospital, 22, Minto Park, Allahabad, Uttar Pradesh 211001",
+        "website": "http://www.mayohospital.com"
+      },
+      {
+        "name": "Apollo Hospital",
+        "doctor": "Dr. R. P. Sharma",
+        "contact": "+91 532 405 8000",
+        "address": "Apollo Hospital, Allahabad, Uttar Pradesh 211016",
+        "website": "http://www.apollohospitals.com"
+      }
+    ],
+    "Meerut": [
+      {
+        "name": "Sanjivani Hospital",
+        "doctor": "Dr. S. R. Tomar",
+        "contact": "+91 121 270 7780",
+        "address": "Sanjivani Hospital, 50, Shastri Nagar, Meerut, Uttar Pradesh 250004",
+        "website": "http://www.sanjivanihospitalmeerut.com"
+      },
+      {
+        "name": "Shanti Hospital",
+        "doctor": "Dr. N. K. Tyagi",
+        "contact": "+91 121 264 1246",
+        "address": "Shanti Hospital, 97, B.K. Shastri Nagar, Meerut, Uttar Pradesh 250001",
+        "website": "http://www.shantihospitalmeerut.com"
+      }
+    ],
+    "Moradabad": [
+      {
+        "name": "Asha Hospital",
+        "doctor": "Dr. S. P. Singh",
+        "contact": "+91 591 241 3345",
+        "address": "Asha Hospital, Moradabad, Uttar Pradesh 244001",
+        "website": "http://www.ashahospital.com"
+      },
+      {
+        "name": "Chandan Hospital",
+        "doctor": "Dr. A. S. Srivastava",
+        "contact": "+91 591 243 6444",
+        "address": "Chandan Hospital, Moradabad, Uttar Pradesh 244001",
+        "website": "http://www.chandanhospital.com"
+      }
+    ],
+    "Firozabad": [
+      {
+        "name": "Vikram Hospital",
+        "doctor": "Dr. R. A. Gupta",
+        "contact": "+91 561 222 4343",
+        "address": "Vikram Hospital, Firozabad, Uttar Pradesh 283203",
+        "website": "http://www.vikramhospital.com"
+      },
+      {
+        "name": "Bhagat Hospital",
+        "doctor": "Dr. P. S. Verma",
+        "contact": "+91 561 222 0282",
+        "address": "Bhagat Hospital, Firozabad, Uttar Pradesh 283203",
+        "website": "http://www.bhagathospital.com"
+      }
+    ],
+    "Saharanpur": [
+      {
+        "name": "Ankur Hospital",
+        "doctor": "Dr. S. A. Khan",
+        "contact": "+91 132 221 1111",
+        "address": "Ankur Hospital, Saharanpur, Uttar Pradesh 247001",
+        "website": "http://www.ankurhospital.com"
+      },
+      {
+        "name": "Shree Ram Hospital",
+        "doctor": "Dr. N. K. Agarwal",
+        "contact": "+91 132 240 1122",
+        "address": "Shree Ram Hospital, Saharanpur, Uttar Pradesh 247001",
+        "website": "http://www.shreeramhospital.com"
+      }
+    ]
+  },
+  "Punjab": {
+    "Chandigarh": [
+      {
+        "name": "Post Graduate Institute of Medical Education and Research (PGIMER)",
+        "doctor": "Dr. K. K. Talwar",
+        "contact": "+91 172 274 7585",
+        "address": "PGIMER, Sector 12, Chandigarh, Punjab 160012",
+        "website": "http://www.pgimer.edu.in"
+      },
+      {
+        "name": "Fortis Hospital",
+        "doctor": "Dr. R. K. Sharma",
+        "contact": "+91 172 509 1000",
+        "address": "Fortis Hospital, Sector 62, Chandigarh, Punjab 160062",
+        "website": "https://www.fortishealthcare.com"
+      }
+    ],
+    "Ludhiana": [
+      {
+        "name": "Dayanand Medical College and Hospital",
+        "doctor": "Dr. K. C. Gupta",
+        "contact": "+91 161 503 1800",
+        "address": "Dayanand Medical College and Hospital, Civil Lines, Ludhiana, Punjab 141001",
+        "website": "http://www.dmch.edu"
+      },
+      {
+        "name": "Panjab University Hospital",
+        "doctor": "Dr. S. P. Singh",
+        "contact": "+91 161 222 6777",
+        "address": "Panjab University Hospital, Ludhiana, Punjab 141003",
+        "website": "http://www.puhospital.com"
+      }
+    ],
+    "Amritsar": [
+      {
+        "name": "Fortis Escorts Hospital",
+        "doctor": "Dr. A. K. Chawla",
+        "contact": "+91 183 501 6222",
+        "address": "Fortis Escorts Hospital, Bhangui, Amritsar, Punjab 143001",
+        "website": "https://www.fortishealthcare.com"
+      },
+      {
+        "name": "Sanjeevani Hospital",
+        "doctor": "Dr. M. S. Grewal",
+        "contact": "+91 183 250 2020",
+        "address": "Sanjeevani Hospital, Amritsar, Punjab 143001",
+        "website": "http://www.sanjeevanihospital.com"
+      }
+    ],
+    "Jalandhar": [
+      {
+        "name": "City Heart Hospital",
+        "doctor": "Dr. S. K. Jindal",
+        "contact": "+91 181 507 1000",
+        "address": "City Heart Hospital, Near BMC Chowk, Jalandhar, Punjab 144001",
+        "website": "http://www.cityhearthospital.com"
+      },
+      {
+        "name": "CMC Hospital",
+        "doctor": "Dr. R. M. Sethi",
+        "contact": "+91 181 505 6000",
+        "address": "Christian Medical College & Hospital, Jalandhar, Punjab 144001",
+        "website": "http://www.cmch-vellore.edu"
+      }
+    ],
+    "Patiala": [
+      {
+        "name": "Rajindra Hospital",
+        "doctor": "Dr. M. S. Singh",
+        "contact": "+91 175 220 1551",
+        "address": "Rajindra Hospital, Patiala, Punjab 147001",
+        "website": "http://www.rajindrahospital.com"
+      },
+      {
+        "name": "Patiala Heart Institute",
+        "doctor": "Dr. A. B. Chawla",
+        "contact": "+91 175 502 0444",
+        "address": "Patiala Heart Institute, Patiala, Punjab 147001",
+        "website": "http://www.patialaheartinstitute.com"
+      }
+    ],
+    "Moga": [
+      {
+        "name": "Moga Heart Institute",
+        "doctor": "Dr. R. S. Ahuja",
+        "contact": "+91 1636 246 825",
+        "address": "Moga Heart Institute, Moga, Punjab 142001",
+        "website": "http://www.mogaheartinstitute.com"
+      },
+      {
+        "name": "Apex Hospital",
+        "doctor": "Dr. S. R. Bansal",
+        "contact": "+91 1636 222 222",
+        "address": "Apex Hospital, Moga, Punjab 142001",
+        "website": "http://www.apexhospital.com"
+      }
+    ],
+    "Fazilka": [
+      {
+        "name": "Jasbir Hospital",
+        "doctor": "Dr. A. S. Sidhu",
+        "contact": "+91 1635 221 999",
+        "address": "Jasbir Hospital, Fazilka, Punjab 152123",
+        "website": "http://www.jasbirhospital.com"
+      },
+      {
+        "name": "New Life Hospital",
+        "doctor": "Dr. P. S. Bhatia",
+        "contact": "+91 1635 221 888",
+        "address": "New Life Hospital, Fazilka, Punjab 152123",
+        "website": "http://www.newlifehospital.com"
+      }
+    ],
+    "Hoshiarpur": [
+      {
+        "name": "Swami Sarvanand Hospital",
+        "doctor": "Dr. N. K. Sharma",
+        "contact": "+91 1882 222 666",
+        "address": "Swami Sarvanand Hospital, Hoshiarpur, Punjab 146001",
+        "website": "http://www.sarvanandhospital.com"
+      },
+      {
+        "name": "Global Hospital",
+        "doctor": "Dr. R. K. Sood",
+        "contact": "+91 1882 243 121",
+        "address": "Global Hospital, Hoshiarpur, Punjab 146001",
+        "website": "http://www.globalhospital.com"
+      }
+    ],
+    "Ropar": [
+      {
+        "name": "Nirmal Hospital",
+        "doctor": "Dr. K. S. Khera",
+        "contact": "+91 1881 242 688",
+        "address": "Nirmal Hospital, Ropar, Punjab 140001",
+        "website": "http://www.nirmalhospital.com"
+      },
+      {
+        "name": "Sukhmani Hospital",
+        "doctor": "Dr. A. P. Goyal",
+        "contact": "+91 1881 242 777",
+        "address": "Sukhmani Hospital, Ropar, Punjab 140001",
+        "website": "http://www.sukhmanihospital.com"
+      }
+    ]
+  },
+  "Haryana": {
+    "Gurugram": [
+      {
+        "name": "Fortis Memorial Research Institute",
+        "doctor": "Dr. R. S. Bhatia",
+        "contact": "+91 124 661 3000",
+        "address": "Fortis Memorial Research Institute, Sector 44, Gurugram, Haryana 122018",
+        "website": "http://www.fortishealthcare.com"
+      },
+      {
+        "name": "Medanta - The Medicity",
+        "doctor": "Dr. A. K. Sood",
+        "contact": "+91 124 414 1414",
+        "address": "Medanta - The Medicity, Sector 38, Gurugram, Haryana 122001",
+        "website": "http://www.medanta.org"
+      }
+    ],
+    "Faridabad": [
+      {
+        "name": "Asian Hospital",
+        "doctor": "Dr. P. S. Grewal",
+        "contact": "+91 129 428 5555",
+        "address": "Asian Hospital, Sector 21A, Faridabad, Haryana 121001",
+        "website": "http://www.asianhospitals.com"
+      },
+      {
+        "name": "National Heart Institute",
+        "doctor": "Dr. R. K. Agarwal",
+        "contact": "+91 129 228 5402",
+        "address": "National Heart Institute, Sector 15A, Faridabad, Haryana 121001",
+        "website": "http://www.nationalheartinstitute.com"
+      }
+    ],
+    "Panipat": [
+      {
+        "name": "Max Hospital",
+        "doctor": "Dr. A. K. Sharma",
+        "contact": "+91 1800 102 1199",
+        "address": "Max Hospital, Sector 25, Panipat, Haryana 132103",
+        "website": "http://www.maxhealthcare.in"
+      },
+      {
+        "name": "KRS Hospital",
+        "doctor": "Dr. N. K. Verma",
+        "contact": "+91 1800 266 3663",
+        "address": "KRS Hospital, Panipat, Haryana 132103",
+        "website": "http://www.krshospital.com"
+      }
+    ],
+    "Hisar": [
+      {
+        "name": "Indriya Hospital",
+        "doctor": "Dr. P. S. Yadav",
+        "contact": "+91 1662 287 878",
+        "address": "Indriya Hospital, Hisar, Haryana 125001",
+        "website": "http://www.indriyahospital.com"
+      },
+      {
+        "name": "Bansal Hospital",
+        "doctor": "Dr. R. P. Bansal",
+        "contact": "+91 1662 240 240",
+        "address": "Bansal Hospital, Hisar, Haryana 125001",
+        "website": "http://www.bansalhospital.com"
+      }
+    ],
+    "Ambala": [
+      {
+        "name": "Madhav Hospital",
+        "doctor": "Dr. S. K. Sood",
+        "contact": "+91 171 262 5555",
+        "address": "Madhav Hospital, Ambala, Haryana 134003",
+        "website": "http://www.madhavhospital.com"
+      },
+      {
+        "name": "Nirmal Hospital",
+        "doctor": "Dr. A. P. Rathi",
+        "contact": "+91 171 264 1767",
+        "address": "Nirmal Hospital, Ambala, Haryana 134003",
+        "website": "http://www.nirmalhospital.com"
+      }
+    ],
+    "Karnal": [
+      {
+        "name": "Karnal Hospital",
+        "doctor": "Dr. A. K. Mehta",
+        "contact": "+91 184 225 0370",
+        "address": "Karnal Hospital, Karnal, Haryana 132001",
+        "website": "http://www.karnalhospital.com"
+      },
+      {
+        "name": "Apex Hospital",
+        "doctor": "Dr. R. K. Sharma",
+        "contact": "+91 184 225 2222",
+        "address": "Apex Hospital, Karnal, Haryana 132001",
+        "website": "http://www.apexhospital.com"
+      }
+    ],
+    "Rohtak": [
+      {
+        "name": "PGIMS Hospital",
+        "doctor": "Dr. N. S. Chahal",
+        "contact": "+91 1262 274 250",
+        "address": "PGIMS, Rohtak, Haryana 124001",
+        "website": "http://www.pgimsrohtak.com"
+      },
+      {
+        "name": "Rathi Hospital",
+        "doctor": "Dr. S. R. Rathi",
+        "contact": "+91 1262 248 898",
+        "address": "Rathi Hospital, Rohtak, Haryana 124001",
+        "website": "http://www.rathihospital.com"
+      }
+    ],
+    "Yamunanagar": [
+      {
+        "name": "Chetanya Hospital",
+        "doctor": "Dr. A. K. Khanna",
+        "contact": "+91 173 224 4444",
+        "address": "Chetanya Hospital, Yamunanagar, Haryana 135001",
+        "website": "http://www.chetanyahospital.com"
+      },
+      {
+        "name": "Sanjeevani Hospital",
+        "doctor": "Dr. P. P. Bansal",
+        "contact": "+91 173 224 2121",
+        "address": "Sanjeevani Hospital, Yamunanagar, Haryana 135001",
+        "website": "http://www.sanjeevanihospital.com"
+      }
+    ],
+    "Panchkula": [
+      {
+        "name": "Sparsh Hospital",
+        "doctor": "Dr. R. S. Chawla",
+        "contact": "+91 172 507 9090",
+        "address": "Sparsh Hospital, Panchkula, Haryana 134109",
+        "website": "http://www.sparshhospital.com"
+      },
+      {
+        "name": "Ojas Hospital",
+        "doctor": "Dr. V. K. Jha",
+        "contact": "+91 172 256 3030",
+        "address": "Ojas Hospital, Panchkula, Haryana 134109",
+        "website": "http://www.ojashospital.com"
+      }
+    ]
+  },
+  "Chattisgarh": {
+    "Raipur": [
+      {
+        "name": "Apollo Hospital",
+        "doctor": "Dr. R. K. Sinha",
+        "contact": "+91 771 404 1111",
+        "address": "Apollo Hospital, G.E. Road, Raipur, Chhattisgarh 492001",
+        "website": "http://www.apollohospitals.com"
+      },
+      {
+        "name": "AIIMS Raipur",
+        "doctor": "Dr. A. K. Gupta",
+        "contact": "+91 771 247 1900",
+        "address": "AIIMS Raipur, Tatibandh, Raipur, Chhattisgarh 492099",
+        "website": "http://www.aiimsraipur.edu.in"
+      }
+    ],
+    "Bilaspur": [
+      {
+        "name": "MGM Medical College & Hospital",
+        "doctor": "Dr. V. K. Chaturvedi",
+        "contact": "+91 7752 245 689",
+        "address": "MGM Medical College & Hospital, Bilaspur, Chhattisgarh 495001",
+        "website": "http://www.mgmchbilaspur.com"
+      },
+      {
+        "name": "Vivekananda Hospital",
+        "doctor": "Dr. S. K. Tiwari",
+        "contact": "+91 7752 249 133",
+        "address": "Vivekananda Hospital, Bilaspur, Chhattisgarh 495001",
+        "website": "http://www.vivekanandahospital.com"
+      }
+    ],
+    "Durg": [
+      {
+        "name": "Sanjeevani Hospital",
+        "doctor": "Dr. M. K. Verma",
+        "contact": "+91 788 232 3243",
+        "address": "Sanjeevani Hospital, Durg, Chhattisgarh 491001",
+        "website": "http://www.sanjeevanihospital.com"
+      },
+      {
+        "name": "Aastha Hospital",
+        "doctor": "Dr. S. S. Pandey",
+        "contact": "+91 788 226 2323",
+        "address": "Aastha Hospital, Durg, Chhattisgarh 491001",
+        "website": "http://www.aasthahospital.com"
+      }
+    ],
+    "Korba": [
+      {
+        "name": "Shree Balaji Hospital",
+        "doctor": "Dr. R. K. Jain",
+        "contact": "+91 7790 240 111",
+        "address": "Shree Balaji Hospital, Korba, Chhattisgarh 495677",
+        "website": "http://www.shreebalajihospital.com"
+      },
+      {
+        "name": "Shanti Hospital",
+        "doctor": "Dr. A. S. Mehta",
+        "contact": "+91 7790 240 222",
+        "address": "Shanti Hospital, Korba, Chhattisgarh 495677",
+        "website": "http://www.shantihospital.com"
+      }
+    ],
+    "Bhilai": [
+      {
+        "name": "Steel Authority of India Limited (SAIL) Hospital",
+        "doctor": "Dr. N. P. Sharma",
+        "contact": "+91 788 224 0491",
+        "address": "SAIL Hospital, Bhilai, Chhattisgarh 490001",
+        "website": "http://www.sail.co.in"
+      },
+      {
+        "name": "Chhattisgarh Institute of Medical Sciences (CIMS)",
+        "doctor": "Dr. P. K. Gupta",
+        "contact": "+91 788 235 5135",
+        "address": "CIMS, Bhilai, Chhattisgarh 490001",
+        "website": "http://www.cimsbhilai.com"
+      }
+    ],
+    "Raigarh": [
+      {
+        "name": "Raigarh Hospital",
+        "doctor": "Dr. A. K. Sharma",
+        "contact": "+91 7762 220 777",
+        "address": "Raigarh Hospital, Raigarh, Chhattisgarh 496001",
+        "website": "http://www.raigarhhospital.com"
+      },
+      {
+        "name": "Shree Vardhman Hospital",
+        "doctor": "Dr. S. P. Rathi",
+        "contact": "+91 7762 220 888",
+        "address": "Shree Vardhman Hospital, Raigarh, Chhattisgarh 496001",
+        "website": "http://www.shreevardhmanhospital.com"
+      }
+    ],
+    "Mahasamund": [
+      {
+        "name": "Dr. Reddy's Hospital",
+        "doctor": "Dr. A. R. Reddy",
+        "contact": "+91 7771 234 567",
+        "address": "Dr. Reddy's Hospital, Mahasamund, Chhattisgarh 493445",
+        "website": "http://www.drreddyshospital.com"
+      },
+      {
+        "name": "Mediwave Hospital",
+        "doctor": "Dr. S. R. Sharma",
+        "contact": "+91 7771 567 890",
+        "address": "Mediwave Hospital, Mahasamund, Chhattisgarh 493445",
+        "website": "http://www.mediwavehospital.com"
+      }
+    ],
+    "Kondagaon": [
+      {
+        "name": "Kondagaon Hospital",
+        "doctor": "Dr. A. M. Sahu",
+        "contact": "+91 7773 222 000",
+        "address": "Kondagaon Hospital, Kondagaon, Chhattisgarh 494226",
+        "website": "http://www.kondagaonhospital.com"
+      },
+      {
+        "name": "Shree Shiv Hospital",
+        "doctor": "Dr. P. S. Singh",
+        "contact": "+91 7773 223 333",
+        "address": "Shree Shiv Hospital, Kondagaon, Chhattisgarh 494226",
+        "website": "http://www.shreeshivhospital.com"
+      }
+    ]
+  },
+  "Arunachal pradesh": {
+    "Itanagar": [
+      {
+        "name": "Tomo Riba Institute of Health and Medical Sciences",
+        "doctor": "Dr. K. D. Chai",
+        "contact": "+91 360 221 2844",
+        "address": "Tomo Riba Institute of Health and Medical Sciences, Itanagar, Arunachal Pradesh 791111",
+        "website": "http://www.trihms.gov.in"
+      },
+      {
+        "name": "Nirmal Hospital",
+        "doctor": "Dr. S. P. Sharma",
+        "contact": "+91 360 224 6463",
+        "address": "Nirmal Hospital, Itanagar, Arunachal Pradesh 791113",
+        "website": "http://www.nirmalhospitalap.com"
+      }
+    ],
+    "Pasighat": [
+      {
+        "name": "District Hospital Pasighat",
+        "doctor": "Dr. R. B. Singh",
+        "contact": "+91 3672 222 076",
+        "address": "District Hospital, Pasighat, Arunachal Pradesh 791102",
+        "website": "http://www.ap.gov.in/district_hospital_pasighat"
+      },
+      {
+        "name": "K. S. Memorial Hospital",
+        "doctor": "Dr. S. A. Bhattacharya",
+        "contact": "+91 3672 222 555",
+        "address": "K. S. Memorial Hospital, Pasighat, Arunachal Pradesh 791102",
+        "website": "http://www.ksmemorialhospital.com"
+      }
+    ],
+    "Aalo": [
+      {
+        "name": "General Hospital Aalo",
+        "doctor": "Dr. N. T. Basar",
+        "contact": "+91 3662 223 206",
+        "address": "General Hospital Aalo, Aalo, Arunachal Pradesh 791001",
+        "website": "http://www.arunachalpradesh.gov.in"
+      },
+      {
+        "name": "St. Paul Hospital",
+        "doctor": "Dr. R. L. Padu",
+        "contact": "+91 3662 220 919",
+        "address": "St. Paul Hospital, Aalo, Arunachal Pradesh 791001",
+        "website": "http://www.stpaulhospital.com"
+      }
+    ],
+    "Ziro": [
+      {
+        "name": "Ziro District Hospital",
+        "doctor": "Dr. L. M. Puri",
+        "contact": "+91 360 220 1168",
+        "address": "Ziro District Hospital, Ziro, Arunachal Pradesh 791120",
+        "website": "http://www.ap.gov.in/district_hospital_ziro"
+      },
+      {
+        "name": "Caring Hands Hospital",
+        "doctor": "Dr. A. B. Joshi",
+        "contact": "+91 360 223 2223",
+        "address": "Caring Hands Hospital, Ziro, Arunachal Pradesh 791120",
+        "website": "http://www.caringhandshospital.com"
+      }
+    ],
+    "Tawang": [
+      {
+        "name": "Tawang District Hospital",
+        "doctor": "Dr. S. R. Khamso",
+        "contact": "+91 360 255 1163",
+        "address": "Tawang District Hospital, Tawang, Arunachal Pradesh 790104",
+        "website": "http://www.ap.gov.in/district_hospital_tawang"
+      },
+      {
+        "name": "Gurung Hospital",
+        "doctor": "Dr. K. D. Tsering",
+        "contact": "+91 360 255 1111",
+        "address": "Gurung Hospital, Tawang, Arunachal Pradesh 790104",
+        "website": "http://www.gurunghospital.com"
+      }
+    ],
+    "Bomdila": [
+      {
+        "name": "Bomdila District Hospital",
+        "doctor": "Dr. R. T. Ngurang",
+        "contact": "+91 360 222 2280",
+        "address": "Bomdila District Hospital, Bomdila, Arunachal Pradesh 790001",
+        "website": "http://www.ap.gov.in/district_hospital_bomdila"
+      },
+      {
+        "name": "Dr. H. S. Singh Hospital",
+        "doctor": "Dr. P. S. Kachari",
+        "contact": "+91 360 222 2272",
+        "address": "Dr. H. S. Singh Hospital, Bomdila, Arunachal Pradesh 790001",
+        "website": "http://www.drhssinghhospital.com"
+      }
+    ]
+  },
+  "Himachal pradesh": {
+    "Shimla": [
+      {
+        "name": "Indira Gandhi Medical College",
+        "doctor": "Dr. A. K. Gupta",
+        "contact": "+91 177 265 7400",
+        "address": "Indira Gandhi Medical College, Shimla, Himachal Pradesh 171001",
+        "website": "http://www.igmcshimla.edu.in"
+      },
+      {
+        "name": "Fortis Hospital",
+        "doctor": "Dr. R. K. Sharma",
+        "contact": "+91 177 662 2211",
+        "address": "Fortis Hospital, Shimla, Himachal Pradesh 171002",
+        "website": "http://www.fortishospital.com"
+      }
+    ],
+    "Dharamshala": [
+      {
+        "name": "Dr. Rajendra Prasad Government Medical College",
+        "doctor": "Dr. M. S. Gill",
+        "contact": "+91 1892 220 230",
+        "address": "Dr. Rajendra Prasad Government Medical College, Tanda, Dharamshala, Himachal Pradesh 176001",
+        "website": "http://www.rpgmc.ac.in"
+      },
+      {
+        "name": "Zonal Hospital",
+        "doctor": "Dr. A. S. Rawat",
+        "contact": "+91 1892 222 445",
+        "address": "Zonal Hospital, Dharamshala, Himachal Pradesh 176215",
+        "website": "http://www.himachalpradesh.gov.in/zonalhospital"
+      }
+    ],
+    "Solan": [
+      {
+        "name": "Shri Lal Bahadur Shastri Medical College",
+        "doctor": "Dr. R. S. Bansal",
+        "contact": "+91 1792 232 500",
+        "address": "Shri Lal Bahadur Shastri Medical College, Nerchowk, Solan, Himachal Pradesh 173211",
+        "website": "http://www.slbmc.ac.in"
+      },
+      {
+        "name": "Himachal Hospital",
+        "doctor": "Dr. S. N. Gupta",
+        "contact": "+91 1792 230 343",
+        "address": "Himachal Hospital, Solan, Himachal Pradesh 173212",
+        "website": "http://www.himachalhospital.com"
+      }
+    ],
+    "Mandi": [
+      {
+        "name": "District Hospital Mandi",
+        "doctor": "Dr. N. K. Thakur",
+        "contact": "+91 1905 226 888",
+        "address": "District Hospital, Mandi, Himachal Pradesh 175001",
+        "website": "http://www.himachalpradesh.gov.in/districthospitalmandi"
+      },
+      {
+        "name": "B. R. Ambedkar Hospital",
+        "doctor": "Dr. A. P. Verma",
+        "contact": "+91 1905 227 777",
+        "address": "B. R. Ambedkar Hospital, Mandi, Himachal Pradesh 175001",
+        "website": "http://www.brambedkarhospital.com"
+      }
+    ],
+    "Hamirpur": [
+      {
+        "name": "Zonal Hospital Hamirpur",
+        "doctor": "Dr. R. C. Sharma",
+        "contact": "+91 1972 222 222",
+        "address": "Zonal Hospital, Hamirpur, Himachal Pradesh 177001",
+        "website": "http://www.himachalpradesh.gov.in/zonalhospitalhamirpur"
+      },
+      {
+        "name": "Aashirwad Hospital",
+        "doctor": "Dr. S. S. Negi",
+        "contact": "+91 1972 223 333",
+        "address": "Aashirwad Hospital, Hamirpur, Himachal Pradesh 177001",
+        "website": "http://www.aashirwadhospital.com"
+      }
+    ]
+  },
+  "Kerala": {
+    "Thiruvananthapuram": [
+      {
+        "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology",
+        "doctor": "Dr. B. S. Sharma",
+        "contact": "+91 471 252 2121",
+        "address": "SCTIMST, Thiruvananthapuram, Kerala 695011",
+        "website": "http://www.sctimst.ac.in"
+      },
+      {
+        "name": "KIMS Health",
+        "doctor": "Dr. S. J. Thomas",
+        "contact": "+91 471 230 1111",
+        "address": "KIMS Health, Thiruvananthapuram, Kerala 695014",
+        "website": "http://www.kimshealth.com"
+      }
+    ],
+    "Kochi": [
+      {
+        "name": "Amrita Institute of Medical Sciences",
+        "doctor": "Dr. A. P. Chacko",
+        "contact": "+91 484 285 5000",
+        "address": "Amrita Hospital, Kochi, Kerala 682041",
+        "website": "http://www.amritahospital.org"
+      },
+      {
+        "name": "Lissie Hospital",
+        "doctor": "Dr. R. S. Nair",
+        "contact": "+91 484 240 6333",
+        "address": "Lissie Hospital, Kochi, Kerala 682018",
+        "website": "http://www.lissiehospital.com"
+      }
+    ],
+    "Kozhikode": [
+      {
+        "name": "Malabar Institute of Medical Sciences",
+        "doctor": "Dr. P. N. Suresh",
+        "contact": "+91 495 274 3500",
+        "address": "MIMS, Kozhikode, Kerala 673004",
+        "website": "http://www.mimsindia.com"
+      },
+      {
+        "name": "Govt. Medical College",
+        "doctor": "Dr. M. R. Shajahan",
+        "contact": "+91 495 272 3122",
+        "address": "Govt. Medical College, Kozhikode, Kerala 673008",
+        "website": "http://www.gmckozhikode.in"
+      }
+    ],
+    "Thrissur": [
+      {
+        "name": "Amala Institute of Medical Sciences",
+        "doctor": "Dr. S. S. K. S. Anil",
+        "contact": "+91 487 242 2650",
+        "address": "Amala Hospital, Thrissur, Kerala 680555",
+        "website": "http://www.amalahospital.org"
+      },
+      {
+        "name": "Westfort Hospital",
+        "doctor": "Dr. B. K. K. Mohan",
+        "contact": "+91 487 242 1111",
+        "address": "Westfort Hospital, Thrissur, Kerala 680004",
+        "website": "http://www.westforthospital.com"
+      }
+    ],
+    "Kottayam": [
+      {
+        "name": "Caritas Hospital",
+        "doctor": "Dr. B. R. Suresh",
+        "contact": "+91 481 252 5151",
+        "address": "Caritas Hospital, Kottayam, Kerala 686001",
+        "website": "http://www.caritashospital.org"
+      },
+      {
+        "name": "Panchjanya Hospital",
+        "doctor": "Dr. K. S. Harish",
+        "contact": "+91 481 259 2000",
+        "address": "Panchjanya Hospital, Kottayam, Kerala 686001",
+        "website": "http://www.panchjanyahospital.com"
+      }
+    ]
+  },
+  "Jharkand": {
+    "Ranchi": [
+      {
+        "name": "Rajendra Institute of Medical Sciences (RIMS)",
+        "doctor": "Dr. S. K. Choudhary",
+        "contact": "+91 651 249 0000",
+        "address": "Rajendra Institute of Medical Sciences, Ranchi, Jharkhand 834009",
+        "website": "http://www.rimsranchi.org"
+      },
+      {
+        "name": "Apollo Hospital Ranchi",
+        "doctor": "Dr. N. B. Singh",
+        "contact": "+91 651 245 0700",
+        "address": "Apollo Hospital, Ranchi, Jharkhand 834001",
+        "website": "http://www.apollohospitals.com"
+      }
+    ],
+    "Jamshedpur": [
+      {
+        "name": "Tata Main Hospital",
+        "doctor": "Dr. A. K. Mishra",
+        "contact": "+91 657 660 2000",
+        "address": "Tata Main Hospital, Jamshedpur, Jharkhand 831001",
+        "website": "http://www.tmh.tatasteel.com"
+      },
+      {
+        "name": "Shree Ganga Hospital",
+        "doctor": "Dr. R. C. Jha",
+        "contact": "+91 657 243 4771",
+        "address": "Shree Ganga Hospital, Jamshedpur, Jharkhand 831001",
+        "website": "http://www.shreegangahospital.com"
+      }
+    ],
+    "Dhanbad": [
+      {
+        "name": "Patliputra Medical College and Hospital",
+        "doctor": "Dr. V. R. Singh",
+        "contact": "+91 326 230 4513",
+        "address": "Patliputra Medical College and Hospital, Dhanbad, Jharkhand 826001",
+        "website": "http://www.pmchdhanbad.com"
+      },
+      {
+        "name": "Dhanbad Hospital",
+        "doctor": "Dr. A. K. Gupta",
+        "contact": "+91 326 230 1020",
+        "address": "Dhanbad Hospital, Dhanbad, Jharkhand 826001",
+        "website": "http://www.dhanbadhospital.com"
+      }
+    ],
+    "Bokaro": [
+      {
+        "name": "Bokaro General Hospital",
+        "doctor": "Dr. A. R. Sharma",
+        "contact": "+91 6542 240 302",
+        "address": "Bokaro General Hospital, Bokaro Steel City, Jharkhand 827001",
+        "website": "http://www.bokarohospital.com"
+      },
+      {
+        "name": "Fortis Hospital Bokaro",
+        "doctor": "Dr. P. S. Jain",
+        "contact": "+91 6542 670 777",
+        "address": "Fortis Hospital, Bokaro Steel City, Jharkhand 827014",
+        "website": "http://www.fortishospital.com"
+      }
+    ],
+    "Giridih": [
+      {
+        "name": "Shri Krishna Medical College and Hospital",
+        "doctor": "Dr. M. K. Singh",
+        "contact": "+91 6547 230 010",
+        "address": "Shri Krishna Medical College and Hospital, Giridih, Jharkhand 815301",
+        "website": "http://www.skchgiridih.com"
+      },
+      {
+        "name": "Manav Hospital",
+        "doctor": "Dr. R. P. Mehta",
+        "contact": "+91 6547 234 441",
+        "address": "Manav Hospital, Giridih, Jharkhand 815301",
+        "website": "http://www.manavhospital.com"
+      }
+    ]
+  },
+  "Assam": {
+    "Guwahati": [
+      {
+        "name": "Gauhati Medical College and Hospital",
+        "doctor": "Dr. B. D. Choudhury",
+        "contact": "+91 361 252 4904",
+        "address": "Gauhati Medical College, Guwahati, Assam 781032",
+        "website": "http://www.gmch.gov.in"
+      },
+      {
+        "name": "Apollo Hospital Guwahati",
+        "doctor": "Dr. D. D. Borkakoty",
+        "contact": "+91 361 233 3300",
+        "address": "Apollo Hospital, Guwahati, Assam 781006",
+        "website": "http://www.apollohospitals.com"
+      }
+    ],
+    "Dibrugarh": [
+      {
+        "name": "AMCH (Assam Medical College and Hospital)",
+        "doctor": "Dr. R. B. Gogoi",
+        "contact": "+91 374 230 1941",
+        "address": "Assam Medical College, Dibrugarh, Assam 786002",
+        "website": "http://www.amch.edu.in"
+      },
+      {
+        "name": "Dibrugarh Hospital",
+        "doctor": "Dr. M. K. Borthakur",
+        "contact": "+91 374 232 5422",
+        "address": "Dibrugarh Hospital, Dibrugarh, Assam 786001",
+        "website": "http://www.dibrugarhhospital.com"
+      }
+    ],
+    "Silchar": [
+      {
+        "name": "Silchar Medical College and Hospital",
+        "doctor": "Dr. N. D. Bhattacharjee",
+        "contact": "+91 3842 262 074",
+        "address": "Silchar Medical College, Silchar, Assam 788014",
+        "website": "http://www.smchassam.gov.in"
+      },
+      {
+        "name": "Lakkhipur Hospital",
+        "doctor": "Dr. S. S. Laskar",
+        "contact": "+91 3842 261 574",
+        "address": "Lakkhipur Hospital, Silchar, Assam 788009",
+        "website": "http://www.lakkhipurhospital.com"
+      }
+    ],
+    "Nagaon": [
+      {
+        "name": "Nagaon Civil Hospital",
+        "doctor": "Dr. P. S. Das",
+        "contact": "+91 3662 220 082",
+        "address": "Nagaon Civil Hospital, Nagaon, Assam 782001",
+        "website": "http://www.nagaoncivilhospital.com"
+      },
+      {
+        "name": "Nagaon Hospital",
+        "doctor": "Dr. M. A. Ghosh",
+        "contact": "+91 3662 228 489",
+        "address": "Nagaon Hospital, Nagaon, Assam 782002",
+        "website": "http://www.nagaonhospital.com"
+      }
+    ],
+    "Tezpur": [
+      {
+        "name": "Tezpur Medical College and Hospital",
+        "doctor": "Dr. A. B. Barman",
+        "contact": "+91 3712 232 020",
+        "address": "Tezpur Medical College, Tezpur, Assam 784001",
+        "website": "http://www.tmctezpur.edu.in"
+      },
+      {
+        "name": "Sankardev Hospital",
+        "doctor": "Dr. R. K. Medhi",
+        "contact": "+91 3712 235 050",
+        "address": "Sankardev Hospital, Tezpur, Assam 784001",
+        "website": "http://www.sankardevhospital.com"
+      }
+    ]
+  },
+  "West Bengal": {
+    "Kolkata": [
+      {
+        "name": "Apollo Gleneagles Hospitals",
+        "doctor": "Dr. S. B. Ghosh",
+        "contact": "+91 33 4006 4000",
+        "address": "Apollo Gleneagles Hospitals, Kolkata, West Bengal 700095",
+        "website": "http://www.apollogleneagles.com"
+      },
+      {
+        "name": "Fortis Hospital",
+        "doctor": "Dr. A. K. Mitra",
+        "contact": "+91 33 6605 6605",
+        "address": "Fortis Hospital, Kolkata, West Bengal 700091",
+        "website": "http://www.fortishospital.com"
+      }
+    ],
+    "Howrah": [
+      {
+        "name": "Howrah District Hospital",
+        "doctor": "Dr. P. K. Chakraborty",
+        "contact": "+91 33 2638 1158",
+        "address": "Howrah District Hospital, Howrah, West Bengal 711101",
+        "website": "http://www.howrahdistricthospital.com"
+      },
+      {
+        "name": "Vivekananda Hospital",
+        "doctor": "Dr. R. K. Banerjee",
+        "contact": "+91 33 2632 0135",
+        "address": "Vivekananda Hospital, Howrah, West Bengal 711104",
+        "website": "http://www.vivekanandahospital.com"
+      }
+    ],
+    "Durgapur": [
+      {
+        "name": "Durgapur Steel Plant Hospital",
+        "doctor": "Dr. A. K. Singh",
+        "contact": "+91 343 250 0130",
+        "address": "DSP Hospital, Durgapur, West Bengal 713203",
+        "website": "http://www.dsphospital.com"
+      },
+      {
+        "name": "Apollo Hospital Durgapur",
+        "doctor": "Dr. B. R. Tiwari",
+        "contact": "+91 343 655 5555",
+        "address": "Apollo Hospital, Durgapur, West Bengal 713206",
+        "website": "http://www.apollohospitals.com"
+      }
+    ],
+    "Siliguri": [
+      {
+        "name": "North Bengal Medical College",
+        "doctor": "Dr. P. C. Roy",
+        "contact": "+91 354 226 4300",
+        "address": "North Bengal Medical College, Siliguri, West Bengal 734012",
+        "website": "http://www.nbmc.ac.in"
+      },
+      {
+        "name": "Siliguri District Hospital",
+        "doctor": "Dr. N. R. Saha",
+        "contact": "+91 354 225 3751",
+        "address": "Siliguri District Hospital, Siliguri, West Bengal 734001",
+        "website": "http://www.siliguridistricthospital.com"
+      }
+    ],
+    "Asansol": [
+      {
+        "name": "Asansol District Hospital",
+        "doctor": "Dr. R. K. Dey",
+        "contact": "+91 341 226 4088",
+        "address": "Asansol District Hospital, Asansol, West Bengal 713301",
+        "website": "http://www.asansoldistricthospital.com"
+      },
+      {
+        "name": "Shri Ramakrishna Seva Mandir",
+        "doctor": "Dr. A. S. Roy",
+        "contact": "+91 341 250 1722",
+        "address": "Shri Ramakrishna Seva Mandir, Asansol, West Bengal 713303",
+        "website": "http://www.srsmhospital.com"
+      }
+    ]
+  },
+  "Odisha": {
+    "Bhubaneswar": [
+      {
+        "name": "AIIMS Bhubaneswar",
+        "doctor": "Dr. A. K. Patnaik",
+        "contact": "+91 674 247 6060",
+        "address": "AIIMS Bhubaneswar, Bhubaneswar, Odisha 751019",
+        "website": "http://www.aiimsbhubaneswar.edu.in"
+      },
+      {
+        "name": "Kalinga Institute of Medical Sciences (KIMS)",
+        "doctor": "Dr. B. R. Sahu",
+        "contact": "+91 674 230 1834",
+        "address": "KIMS, Bhubaneswar, Odisha 751024",
+        "website": "http://www.kims.org.in"
+      }
+    ],
+    "Cuttack": [
+      {
+        "name": "SCB Medical College and Hospital",
+        "doctor": "Dr. R. K. Das",
+        "contact": "+91 671 230 1450",
+        "address": "SCB Medical College, Cuttack, Odisha 753007",
+        "website": "http://www.scbmch.nic.in"
+      },
+      {
+        "name": "Kalinga Hospital",
+        "doctor": "Dr. B. K. Mohapatra",
+        "contact": "+91 671 240 3685",
+        "address": "Kalinga Hospital, Cuttack, Odisha 753014",
+        "website": "http://www.kalingahospital.com"
+      }
+    ],
+    "Berhampur": [
+      {
+        "name": "MKCG Medical College and Hospital",
+        "doctor": "Dr. S. K. Mohanty",
+        "contact": "+91 680 225 1934",
+        "address": "MKCG Medical College, Berhampur, Odisha 760004",
+        "website": "http://www.mkcg.nic.in"
+      },
+      {
+        "name": "Berhampur University Hospital",
+        "doctor": "Dr. R. N. Mishra",
+        "contact": "+91 680 222 4268",
+        "address": "Berhampur University, Berhampur, Odisha 760007",
+        "website": "http://www.buodisha.edu.in"
+      }
+    ],
+    "Rourkela": [
+      {
+        "name": "Ispat General Hospital",
+        "doctor": "Dr. A. K. Singh",
+        "contact": "+91 661 248 8206",
+        "address": "Ispat General Hospital, Rourkela, Odisha 769004",
+        "website": "http://www.ighrl.com"
+      },
+      {
+        "name": "Rourkela Government Hospital",
+        "doctor": "Dr. S. P. Patnaik",
+        "contact": "+91 661 241 2265",
+        "address": "Rourkela Government Hospital, Rourkela, Odisha 769001",
+        "website": "http://www.rourkela.gov.in"
+      }
+    ],
+    "Sambalpur": [
+      {
+        "name": "Sambalpur District Hospital",
+        "doctor": "Dr. S. B. Singh",
+        "contact": "+91 663 224 2871",
+        "address": "Sambalpur District Hospital, Sambalpur, Odisha 768001",
+        "website": "http://www.sambalpur.gov.in"
+      },
+      {
+        "name": "VSS Medical College and Hospital",
+        "doctor": "Dr. A. R. Sahu",
+        "contact": "+91 663 222 5511",
+        "address": "VSS Medical College, Sambalpur, Odisha 768001",
+        "website": "http://www.vssmc.nic.in"
+      }
+    ]
+  },
+  "Goa": {
+    "Panaji": [
+      {
+        "name": "Goa Medical College",
+        "doctor": "Dr. N. S. D'Souza",
+        "contact": "+91 832 242 2150",
+        "address": "Goa Medical College, Panaji, Goa 403001",
+        "website": "http://www.gmc.goa.gov.in"
+      },
+      {
+        "name": "Manipal Hospital",
+        "doctor": "Dr. P. S. Shenoy",
+        "contact": "+91 832 245 3456",
+        "address": "Manipal Hospital, Panaji, Goa 403001",
+        "website": "http://www.manipalhospitals.com"
+      }
+    ],
+    "Margao": [
+      {
+        "name": "Hospital Nossa Senhora da Concei\u00e7\u00e3o",
+        "doctor": "Dr. J. S. Rodrigues",
+        "contact": "+91 832 273 5800",
+        "address": "Hospital Nossa Senhora da Concei\u00e7\u00e3o, Margao, Goa 403601",
+        "website": "http://www.hnsconceicao.com"
+      },
+      {
+        "name": "Fr. Agnel Hospital",
+        "doctor": "Dr. A. R. Pereira",
+        "contact": "+91 832 272 5224",
+        "address": "Fr. Agnel Hospital, Margao, Goa 403601",
+        "website": "http://www.fahmargao.com"
+      }
+    ],
+    "Mapusa": [
+      {
+        "name": "Mapusa District Hospital",
+        "doctor": "Dr. M. K. Joshi",
+        "contact": "+91 832 225 1020",
+        "address": "Mapusa District Hospital, Mapusa, Goa 403507",
+        "website": "http://www.mapusadhospital.com"
+      },
+      {
+        "name": "Sanjivani Hospital",
+        "doctor": "Dr. R. V. Bhagat",
+        "contact": "+91 832 225 0700",
+        "address": "Sanjivani Hospital, Mapusa, Goa 403507",
+        "website": "http://www.sanjivanihospital.com"
+      }
+    ],
+    "Ponda": [
+      {
+        "name": "Eden Hospital",
+        "doctor": "Dr. A. P. Verma",
+        "contact": "+91 832 231 1370",
+        "address": "Eden Hospital, Ponda, Goa 403401",
+        "website": "http://www.edenhospital.com"
+      },
+      {
+        "name": "Chicore Hospital",
+        "doctor": "Dr. S. N. Desai",
+        "contact": "+91 832 231 6110",
+        "address": "Chicore Hospital, Ponda, Goa 403401",
+        "website": "http://www.chicorehospital.com"
+      }
+    ],
+    "Bicholim": [
+      {
+        "name": "Sethusamudram Hospital",
+        "doctor": "Dr. S. K. Nair",
+        "contact": "+91 832 221 3580",
+        "address": "Sethusamudram Hospital, Bicholim, Goa 403504",
+        "website": "http://www.sethusamudramhospital.com"
+      },
+      {
+        "name": "Dr. J. S. Patil Hospital",
+        "doctor": "Dr. J. S. Patil",
+        "contact": "+91 832 221 0400",
+        "address": "Dr. J. S. Patil Hospital, Bicholim, Goa 403504",
+        "website": "http://www.patilhospital.com"
+      }
+    ]
+  },
+  "Bihar": {
+    "Patna": [
+      {
+        "name": "Indira Gandhi Institute of Medical Sciences",
+        "doctor": "Dr. R. K. Singh",
+        "contact": "+91 612 228 2929",
+        "address": "Indira Gandhi Institute of Medical Sciences, Patna, Bihar 800014",
+        "website": "http://www.igims.org"
+      },
+      {
+        "name": "Apollo Hospitals",
+        "doctor": "Dr. A. K. Sinha",
+        "contact": "+91 612 666 7777",
+        "address": "Apollo Hospitals, Patna, Bihar 800026",
+        "website": "http://www.apollohospitals.com"
+      }
+    ],
+    "Gaya": [
+      {
+        "name": "Anugrah Narayan Magadh Medical College and Hospital",
+        "doctor": "Dr. P. K. Gupta",
+        "contact": "+91 631 222 0092",
+        "address": "ANM Medical College, Gaya, Bihar 823001",
+        "website": "http://www.anmmc.org"
+      },
+      {
+        "name": "Jagannath Hospital",
+        "doctor": "Dr. R. N. Jha",
+        "contact": "+91 631 220 1425",
+        "address": "Jagannath Hospital, Gaya, Bihar 823001",
+        "website": "http://www.jagannathhospital.com"
+      }
+    ],
+    "Bhagalpur": [
+      {
+        "name": "Jawaharlal Nehru Medical College and Hospital",
+        "doctor": "Dr. S. A. H. Khan",
+        "contact": "+91 641 222 8500",
+        "address": "Jawaharlal Nehru Medical College, Bhagalpur, Bihar 812001",
+        "website": "http://www.jnmchbhagalpur.org"
+      },
+      {
+        "name": "Bhagalpur Medical College and Hospital",
+        "doctor": "Dr. R. P. Sinha",
+        "contact": "+91 641 245 5888",
+        "address": "Bhagalpur Medical College, Bhagalpur, Bihar 812001",
+        "website": "http://www.bmchbhagalpur.com"
+      }
+    ],
+    "Muzaffarpur": [
+      {
+        "name": "Muzaffarpur Medical College and Hospital",
+        "doctor": "Dr. M. A. Yadav",
+        "contact": "+91 621 224 5032",
+        "address": "Muzaffarpur Medical College, Muzaffarpur, Bihar 842001",
+        "website": "http://www.mmchmuzaffarpur.org"
+      },
+      {
+        "name": "Parvati Hospital",
+        "doctor": "Dr. S. K. Chaudhary",
+        "contact": "+91 621 222 3689",
+        "address": "Parvati Hospital, Muzaffarpur, Bihar 842001",
+        "website": "http://www.parvatihospital.com"
+      }
+    ],
+    "Darbhanga": [
+      {
+        "name": "Darbhanga Medical College and Hospital",
+        "doctor": "Dr. R. K. Jha",
+        "contact": "+91 627 222 2126",
+        "address": "Darbhanga Medical College, Darbhanga, Bihar 846003",
+        "website": "http://www.dmch.edu.in"
+      },
+      {
+        "name": "Sushrut Hospital",
+        "doctor": "Dr. A. K. Singh",
+        "contact": "+91 627 222 0808",
+        "address": "Sushrut Hospital, Darbhanga, Bihar 846003",
+        "website": "http://www.sushruthospital.com"
+      }
+    ]
+  },
+  "Rajasthan": {
+    "Jaipur": [
+      {
+        "name": "Fortis Escorts Hospital",
+        "doctor": "Dr. A. K. Agarwal",
+        "contact": "+91 141 401 5500",
+        "address": "Fortis Escorts Hospital, Jaipur, Rajasthan 302015",
+        "website": "http://www.fortisescortsjaipur.com"
+      },
+      {
+        "name": "Sawai Man Singh Medical College",
+        "doctor": "Dr. S. K. Jain",
+        "contact": "+91 141 255 9000",
+        "address": "SMS Medical College, Jaipur, Rajasthan 302004",
+        "website": "http://www.smsmedicalcollege.org"
+      }
+    ],
+    "Udaipur": [
+      {
+        "name": "GBH American Hospital",
+        "doctor": "Dr. R. C. Mehta",
+        "contact": "+91 294 241 0711",
+        "address": "GBH American Hospital, Udaipur, Rajasthan 313001",
+        "website": "http://www.gbhah.com"
+      },
+      {
+        "name": "Pacific Medical University",
+        "doctor": "Dr. R. K. Sharma",
+        "contact": "+91 294 249 0000",
+        "address": "Pacific Medical University, Udaipur, Rajasthan 313001",
+        "website": "http://www.pacificmedicaluniversity.com"
+      }
+    ],
+    "Ajmer": [
+      {
+        "name": "Jawaharlal Nehru Hospital",
+        "doctor": "Dr. M. K. Agarwal",
+        "contact": "+91 145 242 5325",
+        "address": "Jawaharlal Nehru Hospital, Ajmer, Rajasthan 305001",
+        "website": "http://www.jnhajmer.com"
+      },
+      {
+        "name": "Sardar Patel Medical College",
+        "doctor": "Dr. R. P. Yadav",
+        "contact": "+91 145 262 1004",
+        "address": "Sardar Patel Medical College, Ajmer, Rajasthan 305001",
+        "website": "http://www.spmedicalcollege.org"
+      }
+    ],
+    "Jodhpur": [
+      {
+        "name": "Jodhpur Medical College",
+        "doctor": "Dr. N. S. Bhadana",
+        "contact": "+91 291 251 8111",
+        "address": "Jodhpur Medical College, Jodhpur, Rajasthan 342003",
+        "website": "http://www.jodhpurmedicalcollege.com"
+      },
+      {
+        "name": "AIIMS Jodhpur",
+        "doctor": "Dr. S. K. Sharma",
+        "contact": "+91 291 274 1741",
+        "address": "AIIMS Jodhpur, Jodhpur, Rajasthan 342005",
+        "website": "http://www.aiimsjodhpur.edu.in"
+      }
+    ],
+    "Bikaner": [
+      {
+        "name": "PBM Hospital",
+        "doctor": "Dr. H. R. Jain",
+        "contact": "+91 151 252 1278",
+        "address": "PBM Hospital, Bikaner, Rajasthan 334001",
+        "website": "http://www.pbmhospital.com"
+      },
+      {
+        "name": "Sardar Patel Medical College",
+        "doctor": "Dr. S. K. Verma",
+        "contact": "+91 151 252 3700",
+        "address": "Sardar Patel Medical College, Bikaner, Rajasthan 334001",
+        "website": "http://www.spmcbikaner.com"
+      }
+    ]
+  },
+  "Telangana": {
+    "Hyderabad": [
+      {
+        "name": "Apollo Hospitals",
+        "doctor": "Dr. S. S. Reddy",
+        "contact": "+91 40 2360 7777",
+        "address": "Apollo Hospitals, Hyderguda, Hyderabad, Telangana 500029",
+        "website": "http://www.apollohospitals.com"
+      },
+      {
+        "name": "Yashoda Hospitals",
+        "doctor": "Dr. K. R. Murthy",
+        "contact": "+91 40 4567 4567",
+        "address": "Yashoda Hospitals, Somajiguda, Hyderabad, Telangana 500082",
+        "website": "http://www.yashodahospitals.com"
+      }
+    ],
+    "Warangal": [
+      {
+        "name": "Kakatiya Medical College",
+        "doctor": "Dr. A. S. Reddy",
+        "contact": "+91 870 245 0010",
+        "address": "Kakatiya Medical College, Warangal, Telangana 506002",
+        "website": "http://www.kmcwgl.edu.in"
+      },
+      {
+        "name": "Warangal Multi-Specialty Hospital",
+        "doctor": "Dr. M. K. Rao",
+        "contact": "+91 870 256 2018",
+        "address": "Warangal Multi-Specialty Hospital, Warangal, Telangana 506002",
+        "website": "http://www.warangalhospital.com"
+      }
+    ],
+    "Nizamabad": [
+      {
+        "name": "Raja Hospital",
+        "doctor": "Dr. S. R. Reddy",
+        "contact": "+91 846 222 0025",
+        "address": "Raja Hospital, Nizamabad, Telangana 503001",
+        "website": "http://www.rajahospital.com"
+      },
+      {
+        "name": "Shri Dhanvantari Hospital",
+        "doctor": "Dr. P. K. Gupta",
+        "contact": "+91 846 222 2054",
+        "address": "Shri Dhanvantari Hospital, Nizamabad, Telangana 503002",
+        "website": "http://www.dhanvantarihospital.com"
+      }
+    ],
+    "Khammam": [
+      {
+        "name": "Government District Hospital",
+        "doctor": "Dr. V. B. Rao",
+        "contact": "+91 874 224 2321",
+        "address": "Government District Hospital, Khammam, Telangana 507001",
+        "website": "http://www.khammamdistricthospital.gov.in"
+      },
+      {
+        "name": "Gautham Hospital",
+        "doctor": "Dr. S. K. Kumar",
+        "contact": "+91 874 222 1920",
+        "address": "Gautham Hospital, Khammam, Telangana 507003",
+        "website": "http://www.gauthamhospital.com"
+      }
+    ],
+    "Karimnagar": [
+      {
+        "name": "NIMS Hospital",
+        "doctor": "Dr. K. R. Suresh",
+        "contact": "+91 878 222 2988",
+        "address": "NIMS Hospital, Karimnagar, Telangana 505001",
+        "website": "http://www.nimskarimnagar.com"
+      },
+      {
+        "name": "Sri Sai Hospital",
+        "doctor": "Dr. A. V. Reddy",
+        "contact": "+91 878 226 7755",
+        "address": "Sri Sai Hospital, Karimnagar, Telangana 505001",
+        "website": "http://www.srisaihospital.com"
+      }
+    ]
+  },
+  "Meghalaya": {
+    "Shillong": [
+      {
+        "name": "North East Indira Gandhi Regional Institute of Health and Medical Sciences (NEIGRIHMS)",
+        "doctor": "Dr. A. B. Mukhim",
+        "contact": "+91 364 253 8000",
+        "address": "NEIGRIHMS, Mawdiangdiang, Shillong, Meghalaya 793018",
+        "website": "http://www.neigrihms.gov.in"
+      },
+      {
+        "name": "Civil Hospital Shillong",
+        "doctor": "Dr. R. B. Bhoi",
+        "contact": "+91 364 222 4251",
+        "address": "Civil Hospital, Shillong, Meghalaya 793001",
+        "website": "http://meghalaya.gov.in/civilhospital"
+      }
+    ],
+    "Tura": [
+      {
+        "name": "Tura Civil Hospital",
+        "doctor": "Dr. A. R. Dkhar",
+        "contact": "+91 364 222 5204",
+        "address": "Tura Civil Hospital, Tura, Meghalaya 794001",
+        "website": "http://meghalaya.gov.in/turahospital"
+      },
+      {
+        "name": "Bansara Eye Hospital",
+        "doctor": "Dr. S. P. Kharshiing",
+        "contact": "+91 364 255 0121",
+        "address": "Bansara Eye Hospital, Tura, Meghalaya 794001",
+        "website": "http://www.bansaraeyehospital.com"
+      }
+    ],
+    "Jowai": [
+      {
+        "name": "Jowai Civil Hospital",
+        "doctor": "Dr. N. M. Kharshiing",
+        "contact": "+91 364 262 5012",
+        "address": "Jowai Civil Hospital, Jowai, Meghalaya 793150",
+        "website": "http://meghalaya.gov.in/jowaicivilhospital"
+      },
+      {
+        "name": "K.H. Wankhar Hospital",
+        "doctor": "Dr. K. B. Wankhar",
+        "contact": "+91 364 262 4567",
+        "address": "K.H. Wankhar Hospital, Jowai, Meghalaya 793150",
+        "website": "http://www.wankharhospital.com"
+      }
+    ],
+    "Nongstoin": [
+      {
+        "name": "Civil Hospital Nongstoin",
+        "doctor": "Dr. J. P. Khongwir",
+        "contact": "+91 364 255 1204",
+        "address": "Civil Hospital, Nongstoin, Meghalaya 793119",
+        "website": "http://meghalaya.gov.in/nongstoinhospital"
+      },
+      {
+        "name": "St. Joseph's Hospital",
+        "doctor": "Dr. F. M. Syiem",
+        "contact": "+91 364 255 0456",
+        "address": "St. Joseph's Hospital, Nongstoin, Meghalaya 793119",
+        "website": "http://www.stjosephshospital.com"
+      }
+    ],
+    "Baghmara": [
+      {
+        "name": "Civil Hospital Baghmara",
+        "doctor": "Dr. C. S. Sangma",
+        "contact": "+91 364 227 4512",
+        "address": "Civil Hospital, Baghmara, Meghalaya 794102",
+        "website": "http://meghalaya.gov.in/baghmarahospital"
+      },
+      {
+        "name": "Williamnagar Civil Hospital",
+        "doctor": "Dr. A. G. Kharkongor",
+        "contact": "+91 364 227 4221",
+        "address": "Williamnagar Civil Hospital, Baghmara, Meghalaya 794102",
+        "website": "http://meghalaya.gov.in/williamnagarhospital"
+      }
+    ]
+  },
+  "Sikkim": {
+    "Gangtok": [
+      {
+        "name": "Sikkim Manipal Institute of Medical Sciences",
+        "doctor": "Dr. R. S. Khatiwada",
+        "contact": "+91 3592 231 109",
+        "address": "Sikkim Manipal Institute of Medical Sciences, Gangtok, Sikkim 737102",
+        "website": "http://www.smu.edu.in"
+      },
+      {
+        "name": "STNM Hospital",
+        "doctor": "Dr. N. B. Chhetri",
+        "contact": "+91 3592 222 123",
+        "address": "STNM Hospital, Gangtok, Sikkim 737101",
+        "website": "http://www.sikkim.gov.in/stnm"
+      }
+    ],
+    "Namchi": [
+      {
+        "name": "Namchi District Hospital",
+        "doctor": "Dr. K. R. Rai",
+        "contact": "+91 3592 265 120",
+        "address": "Namchi District Hospital, Namchi, Sikkim 737126",
+        "website": "http://www.sikkim.gov.in/namchi"
+      },
+      {
+        "name": "Sikkim State Referral Hospital",
+        "doctor": "Dr. S. S. Kafley",
+        "contact": "+91 3592 265 322",
+        "address": "Sikkim State Referral Hospital, Namchi, Sikkim 737126",
+        "website": "http://www.sikkim.gov.in/ssrh"
+      }
+    ],
+    "Pakyong": [
+      {
+        "name": "Pakyong Hospital",
+        "doctor": "Dr. T. B. Gurung",
+        "contact": "+91 3592 244 412",
+        "address": "Pakyong Hospital, Pakyong, Sikkim 737106",
+        "website": "http://www.sikkim.gov.in/pakyong"
+      }
+    ],
+    "Mangan": [
+      {
+        "name": "Mangan District Hospital",
+        "doctor": "Dr. J. N. Bhutia",
+        "contact": "+91 3592 240 622",
+        "address": "Mangan District Hospital, Mangan, Sikkim 737116",
+        "website": "http://www.sikkim.gov.in/mangan"
+      }
+    ]
+  },
+  "Tripura": {
+    "Agartala": [
+      {
+        "name": "Agartala Government Medical College",
+        "doctor": "Dr. A. K. Saha",
+        "contact": "+91 381 232 6728",
+        "address": "Agartala Government Medical College, Agartala, Tripura 799001",
+        "website": "http://www.agartalamedicalcollege.tripura.gov.in"
+      },
+      {
+        "name": "Govt. S. R. S. Hospital",
+        "doctor": "Dr. N. C. Roy",
+        "contact": "+91 381 232 4466",
+        "address": "Govt. S. R. S. Hospital, Agartala, Tripura 799001",
+        "website": "http://www.tripura.gov.in"
+      }
+    ],
+    "Udaipur": [
+      {
+        "name": "Udaipur District Hospital",
+        "doctor": "Dr. R. B. Dey",
+        "contact": "+91 390 222 0277",
+        "address": "Udaipur District Hospital, Udaipur, Tripura 799120",
+        "website": "http://www.tripura.gov.in/udaipur"
+      },
+      {
+        "name": "Nandokumar Debbarma Memorial Hospital",
+        "doctor": "Dr. S. K. Majumdar",
+        "contact": "+91 390 223 2585",
+        "address": "Nandokumar Debbarma Memorial Hospital, Udaipur, Tripura 799120",
+        "website": "http://www.tripura.gov.in"
+      }
+    ],
+    "Dharmanagar": [
+      {
+        "name": "Dharmanagar District Hospital",
+        "doctor": "Dr. A. K. Jamatia",
+        "contact": "+91 381 233 7717",
+        "address": "Dharmanagar District Hospital, Dharmanagar, Tripura 799250",
+        "website": "http://www.tripura.gov.in"
+      }
+    ],
+    "Belonia": [
+      {
+        "name": "Belonia Sub-Divisional Hospital",
+        "doctor": "Dr. B. S. Khatun",
+        "contact": "+91 390 220 5505",
+        "address": "Belonia Sub-Divisional Hospital, Belonia, Tripura 799155",
+        "website": "http://www.tripura.gov.in/belonia"
+      }
+    ]
+  },
+  "Uttarakhand": {
+    "Dehradun": [
+      {
+        "name": "Max Super Speciality Hospital",
+        "doctor": "Dr. R. C. Goyal",
+        "contact": "+91 135 247 1500",
+        "address": "Max Super Speciality Hospital, Dehradun, Uttarakhand 248001",
+        "website": "http://www.maxhealthcare.in"
+      },
+      {
+        "name": "Fortis Escorts Hospital",
+        "doctor": "Dr. K. S. Jaggi",
+        "contact": "+91 135 260 2929",
+        "address": "Fortis Escorts Hospital, Dehradun, Uttarakhand 248001",
+        "website": "http://www.fortishealthcare.com"
+      }
+    ],
+    "Haridwar": [
+      {
+        "name": "Shree Jagdamba Hospital",
+        "doctor": "Dr. R. P. Sharma",
+        "contact": "+91 1334 240 030",
+        "address": "Shree Jagdamba Hospital, Haridwar, Uttarakhand 249401",
+        "website": "http://www.jagdambahospital.com"
+      },
+      {
+        "name": "Swami Ram Hospital",
+        "doctor": "Dr. A. P. Puri",
+        "contact": "+91 1334 240 160",
+        "address": "Swami Ram Hospital, Haridwar, Uttarakhand 249401",
+        "website": "http://www.srhu.edu.in"
+      }
+    ],
+    "Rudrapur": [
+      {
+        "name": "Pahalwan Hospital",
+        "doctor": "Dr. M. S. Pal",
+        "contact": "+91 5944 233 326",
+        "address": "Pahalwan Hospital, Rudrapur, Uttarakhand 263153",
+        "website": "http://www.pahalwanhospital.com"
+      },
+      {
+        "name": "Sushila Tiwari Memorial Hospital",
+        "doctor": "Dr. S. R. Ghosh",
+        "contact": "+91 5944 234 100",
+        "address": "Sushila Tiwari Memorial Hospital, Rudrapur, Uttarakhand 263153",
+        "website": "http://www.stmhospital.com"
+      }
+    ],
+    "Nainital": [
+      {
+        "name": "Sushila Tiwari Memorial Hospital",
+        "doctor": "Dr. R. P. Dutta",
+        "contact": "+91 5942 236 141",
+        "address": "Sushila Tiwari Memorial Hospital, Nainital, Uttarakhand 263001",
+        "website": "http://www.stmhospital.com"
+      },
+      {
+        "name": "Nainital Hospital",
+        "doctor": "Dr. R. K. Sharma",
+        "contact": "+91 5942 233 110",
+        "address": "Nainital Hospital, Nainital, Uttarakhand 263001",
+        "website": "http://www.nainitalhospital.com"
+      }
+    ],
+    "Almora": [
+      {
+        "name": "Kumaon Medical College",
+        "doctor": "Dr. M. K. Joshi",
+        "contact": "+91 5962 230 080",
+        "address": "Kumaon Medical College, Almora, Uttarakhand 263601",
+        "website": "http://www.kumaonmedicalcollege.com"
+      },
+      {
+        "name": "Almora District Hospital",
+        "doctor": "Dr. R. C. Thapliyal",
+        "contact": "+91 5962 233 500",
+        "address": "Almora District Hospital, Almora, Uttarakhand 263601",
+        "website": "http://www.tripura.gov.in"
+      }
+    ]
+  },
+  "Nagaland": {
+    "Kohima": [
+      {
+        "name": "Naga Hospital Authority Kohima",
+        "doctor": "Dr. T. S. Ao",
+        "contact": "+91 370 225 0260",
+        "address": "Naga Hospital Authority, Kohima, Nagaland 797001",
+        "website": "http://www.nhahospital.nagaland.gov.in"
+      },
+      {
+        "name": "Bhandari Hospital",
+        "doctor": "Dr. V. M. Yaden",
+        "contact": "+91 370 227 2256",
+        "address": "Bhandari Hospital, Kohima, Nagaland 797001",
+        "website": "http://www.bhandarihospital.com"
+      }
+    ],
+    "Dimapur": [
+      {
+        "name": "Dimapur District Hospital",
+        "doctor": "Dr. K. T. Zhimomi",
+        "contact": "+91 386 224 2246",
+        "address": "Dimapur District Hospital, Dimapur, Nagaland 797112",
+        "website": "http://dimapur.gov.in"
+      },
+      {
+        "name": "Eagle Eye Hospital",
+        "doctor": "Dr. P. S. Reddy",
+        "contact": "+91 386 225 1500",
+        "address": "Eagle Eye Hospital, Dimapur, Nagaland 797112",
+        "website": "http://www.eagleeyehospital.com"
+      }
+    ],
+    "Mokokchung": [
+      {
+        "name": "Mokokchung District Hospital",
+        "doctor": "Dr. A. M. Longchar",
+        "contact": "+91 386 122 0444",
+        "address": "Mokokchung District Hospital, Mokokchung, Nagaland 798601",
+        "website": "http://mokokchung.gov.in"
+      },
+      {
+        "name": "Imkongliba Memorial District Hospital",
+        "doctor": "Dr. K. A. B. Longkumer",
+        "contact": "+91 386 122 0588",
+        "address": "Imkongliba Memorial District Hospital, Mokokchung, Nagaland 798601",
+        "website": "http://www.imdhospital.com"
+      }
+    ],
+    "Peren": [
+      {
+        "name": "Peren District Hospital",
+        "doctor": "Dr. M. P. Khakhlari",
+        "contact": "+91 386 122 0370",
+        "address": "Peren District Hospital, Peren, Nagaland 797101",
+        "website": "http://www.peren.gov.in"
+      }
+    ]
+  },
+  "Mizoram": {
+    "Aizawl": [
+      {
+        "name": "Zoram Medical College",
+        "doctor": "Dr. R. L. Zohmingliana",
+        "contact": "+91 386 223 2046",
+        "address": "Zoram Medical College, Aizawl, Mizoram 796001",
+        "website": "http://www.zmc.edu.in"
+      },
+      {
+        "name": "Civil Hospital Aizawl",
+        "doctor": "Dr. B. M. Khawchhing",
+        "contact": "+91 386 222 2723",
+        "address": "Civil Hospital, Aizawl, Mizoram 796001",
+        "website": "http://www.mizoram.gov.in/civilhospital"
+      }
+    ],
+    "Lunglei": [
+      {
+        "name": "Lunglei District Hospital",
+        "doctor": "Dr. R. L. Hrangchal",
+        "contact": "+91 389 921 2140",
+        "address": "Lunglei District Hospital, Lunglei, Mizoram 796701",
+        "website": "http://www.mizoram.gov.in/lungleihospital"
+      }
+    ],
+    "Champhai": [
+      {
+        "name": "Champhai District Hospital",
+        "doctor": "Dr. A. R. Chhangte",
+        "contact": "+91 389 921 0123",
+        "address": "Champhai District Hospital, Champhai, Mizoram 796321",
+        "website": "http://www.mizoram.gov.in/champhaihospital"
+      }
+    ],
+    "Serchhip": [
+      {
+        "name": "Serchhip District Hospital",
+        "doctor": "Dr. K. H. Pautu",
+        "contact": "+91 389 927 0596",
+        "address": "Serchhip District Hospital, Serchhip, Mizoram 796181",
+        "website": "http://www.mizoram.gov.in/serchhiphospital"
+      }
+    ],
+    "Kolasib": [
+      {
+        "name": "Kolasib District Hospital",
+        "doctor": "Dr. M. B. Thangzawna",
+        "contact": "+91 389 231 2233",
+        "address": "Kolasib District Hospital, Kolasib, Mizoram 796081",
+        "website": "http://www.mizoram.gov.in/kolasibhospital"
+      }
+    ]
+  }
+}

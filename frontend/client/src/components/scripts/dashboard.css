@@ -1,0 +1,23 @@
+.dashboard-container {
+    margin-left: 10px;
+    border: 1px solid rgb(9, 9, 54);
+    width: max-content;
+}
+
+.dashboard-card {
+    background-color: rgb(33, 33, 106);
+    display: flex;
+    flex-direction: column;
+    border-radius: 100%;
+    margin: 10px;
+}
+
+.dashboard-card h1 {
+    width: min-content;
+    font-size: 30px;
+    color: white;
+}
+
+.dashboard-card a {
+    text-decoration: none;
+}
