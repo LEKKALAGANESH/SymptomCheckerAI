@@ -6,7 +6,6 @@ const cors = require('cors');
 const nodemailer = require('nodemailer');
 const middleware = require('./middleware');
 const Users = require('./model');
-const { MongoClient } = require('mongodb');
 
 const app = express();
 
@@ -19,34 +18,6 @@ app.use(cors({
 mongoose.connect('mongodb+srv://user7042:user7042@cluster7042.4cn8puw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster7042').then(
     () => console.log('Connected to MongoDB')
 ).catch(err => console.log(err))
-
-
-const uri = 'mongodb+srv://user7042:user7042@cluster7042.4cn8puw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster7042'; // MongoDB URI
-const dbName = 'HospitalDB'; // Database name
-const collectionName = 'Hospitals'; // Collection name
-
-const client = new MongoClient(uri);
-
-
-app.get('/hospitals', async (req, res) => {
-
-    try {
-        await client.connect();
-        console.log('Connected to hospitals  MongoDB!');
-
-        const db = client.db(dbName);
-        const collection = db.collection(collectionName);
-
-        // Query to fetch data (e.g., all hospitals in Andhra Pradesh)
-        // const query = { state: 'AndhraPradesh' };
-        const hospitals = await collection.find().toArray();
-
-        res.status(200).json(hospitals);
-    } catch (err) {
-        console.error('Error accessing MongoDB:', err);
-        res.status(500).send('Error accessing hospital data');
-    }
-});
 
 app.post('/register', async (req, res) => {
     try {
