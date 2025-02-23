@@ -4,11 +4,11 @@
 
       pip install flask
 
-  1.2. Run the Flask App:
+  1.2. Run the Flask App: (after done the 2nd pard(frontend))
   
-      python app.py
+      python app.py  
 
-2. For Frontend Part:
+2. For Frontend Part: (open new terminal)
 
   2.1. Navigate to Frontend Directory:
   
@@ -25,4 +25,12 @@
   2.2.1. Install Node Modules for Client:
 
       npm install
+      
+  2.3 Navigate to Frontend Directory:
+
+    cd..
+    
+  2.4 Run the website. (after run the 1.2 (flask app))
+
+    npm run dev
 
