@@ -193,7 +193,7 @@ For support, email: galekkala5@gmail.com or join our Slack channel.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Team
-- **Project Lead**: Daggumalli Abhishakth
+- **Project Lead**: [Daggumalli Abhishakth](https://github.com/Abhishakth007)
 - **ML Engineer**: [M. Sivarama Krishna](https://github.com/GITHUB_USERNAME) & P. Raja Kumar Reddy
 - **Frontend Developer**: [Lekkala Ganesh](https://github.com/LEKKALAGANESH)
 - **Backend Developer**: [Lekkala Ganesh](https://github.com/LEKKALAGANESH)
