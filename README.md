@@ -194,9 +194,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Team
 - **Project Lead**: Daggumalli Abhishakth
-- **ML Engineer**: M. Sivarama Krishna & P. Raja Kumar Reddy
-- **Frontend Developer**: Lekkala Ganesh
-- **Backend Developer**: Lekkala Ganesh
+- **ML Engineer**: [M. Sivarama Krishna](https://github.com/GITHUB_USERNAME) & P. Raja Kumar Reddy
+- **Frontend Developer**: [Lekkala Ganesh](https://github.com/LEKKALAGANESH)
+- **Backend Developer**: [Lekkala Ganesh](https://github.com/LEKKALAGANESH)
 
 - **Guided By**: Mr. Rajat Kumar [Asst. Professor, CSE Department, PIET, Parul University.]
 
